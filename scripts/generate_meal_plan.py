@@ -291,33 +291,8 @@ def extract_offers_used(meal_plan_text: str) -> str:
     return '\n'.join(offer_lines).strip()
 
 def build_calendar_description(meal_plan_text: str, week_number: int, today: datetime, filename: str) -> str:
-    meals       = extract_meals(meal_plan_text)
-    supermarket = extract_supermarket(meal_plan_text)
-    budget      = extract_total_budget(meal_plan_text)
-    grocery     = extract_grocery_list(meal_plan_text)
-    offers      = extract_offers_used(meal_plan_text)
-    week_end    = today + timedelta(days=6)
-    date_range  = f"{today.strftime('%d.')}-{week_end.strftime('%d. %B %Y')}"
-    github_link = f"https://github.com/ai-mi-hammer/foodplaner/blob/main/arkiv/{filename}"
-
-    return f"""🗓️ Ugens middage ({date_range})
-🛒 Supermarked: {supermarket} | 💰 Budget: ~{budget} DKK
-
-━━━━━━━━━━━━━━━━━━━━━━
-Mandag     → {meals.get('Mandag', '—')}
-Tirsdag    → {meals.get('Tirsdag', '—')}
-Onsdag     → {meals.get('Onsdag', '—')}
-Torsdag    → {meals.get('Torsdag', '—')}
-Fredag     → {meals.get('Fredag', '—')}
-Weekend    → {meals.get('Weekend', '—')} (valgfri)
-━━━━━━━━━━━━━━━━━━━━━━
-
-{grocery}
-
-🏷️ Ugens tilbud brugt:
-{offers}
-
-📋 Fuld opskriftsoversigt: {github_link}"""
+    """Sender hele madplan-filen 1:1 som kalender-beskrivelse."""
+    return meal_plan_text
 
 def create_calendar_event(description: str, week_number: int, next_sunday: datetime):
     access_token = get_google_access_token()
