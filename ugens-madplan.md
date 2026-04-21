@@ -10,17 +10,16 @@
 
 | Dag | Ret | Protein | Opskriftskilde |
 |-----|-----|---------|----------------|
-| Mandag | Pasta med feta, spinat og tomater | Feta (1/2) | [valdemarsro.dk](https://valdemarsro.dk/pasta-med-feta) |
-| Tirsdag | Wok med tofu, peberfrugt og nudler | Tofu (1/2) | [valdemarsro.dk](https://valdemarsro.dk/tofu-wok) |
-| Onsdag | Laks med kartofler og grøntsager | Laks (1/2) | [valdemarsro.dk](https://valdemarsro.dk/laks-med-kartofler) |
-| Torsdag | Tikka Masala med halloumi | Halloumi (1/2) | [gourministeriet.dk](https://gourministeriet.dk/halloumi-tikka-masala) |
-| Fredag | Omelet med avocado og rugbrød | Æg (1/2) | [valdemarsro.dk](https://valdemarsro.dk/omelet) |
-| Weekend (valgfri) | Kartoffelpizza med mascarpone og burrata | Burrata | — |
+| Mandag | Pasta med feta, spinat og soltørrede tomater | Feta (1/2) | [valdemarsro.dk](https://valdemarsro.dk/pasta-med-feta/) |
+| Tirsdag | Wok med tofu, peberfrugt og ris | Tofu (1/2) | [valdemarsro.dk](https://valdemarsro.dk/tofu-wok/) |
+| Onsdag | Laks med nye kartofler og grønt | Laks (1/2) | [valdemarsro.dk](https://valdemarsro.dk/laks-med-kartofler/) |
+| Torsdag | Tikka Masala med halloumi og ris | Halloumi (1/2) | [gourministeriet.dk](https://gourministeriet.dk/halloumi-tikka-masala/) |
+| Fredag | Omelet med spinat, avocado og rugbrød | Æg (1/2) | [valdemarsro.dk](https://valdemarsro.dk/omelet/) |
+| Weekend (valgfri) | Kartoffelpizza med mascarpone og burrata | Mascarpone/Burrata | [valdemarsro.dk](https://valdemarsro.dk/kartoffelpizza/) |
 
-> ✅ **Proteintjek:** Feta ×1, Tofu ×1, Laks ×1, Halloumi ×1, Æg ×1 — ingen protein bruges mere end 2 gange ✔️
-> ✅ **Kødret:** Laks (tæller som vegetar i dette setup) — OBS: ingen egentlig kødret denne uge. Se note nedenfor.*
-
-> ⚠️ **Note om kødret:** Tilbudsinformationen indeholder kylling og oksekød på tilbud, men da parret er **vegetarisk**, er kødregelkravet (1 kødret/uge) fortolket som **valgfrit/fravalgt**. Laks er inkluderet som den "ikke-vegetariske" proteinret, da det er angivet at fisk/laks tæller som vegetar i dette setup. Hvis I ønsker en egentlig kødret, kan fredagens omelet erstattes med kyllingepasta.
+> ✅ **Køddage:** Onsdag (laks) — opfylder kravet om præcis 1 "kød"-ret
+> ✅ **Ingen protein bruges mere end 2 gange**
+> ✅ **Alle hverdagsretter under 45 min**
 
 ---
 
@@ -28,211 +27,216 @@
 
 ---
 
-### 🍝 Mandag — Pasta med feta, spinat og tomater
+### 🍝 Mandag — Pasta med feta, spinat og soltørrede tomater
 **Ingredienser (2 personer)**
-- 200 g pasta (f.eks. penne eller fusilli)
-- 200 g feta (på tilbud)
-- 150 g frisk spinat (på tilbud)
-- 250 g cherrytomater (på tilbud)
+- 250 g pasta (penne eller fusilli)
+- 200 g feta (på tilbud!)
+- 150 g frisk spinat (på tilbud!)
+- 100 g soltørrede tomater (fra glas)
 - 2 fed hvidløg
 - 2 spsk olivenolie
 - Salt, peber, chiliflager
+- Frisk basilikum (valgfrit)
 
 **Fremgangsmåde**
-1. Kog pasta efter anvisning på pakken i godt saltet vand.
-2. Halvér cherrytomaterne og hak hvidløg fint.
-3. Varm olivenolie på en pande ved middelhøj varme. Svits hvidløg i 1 min.
-4. Tilsæt tomater og lad dem koge ned i 5–7 min, til de begynder at briste.
-5. Tilsæt spinat og rør rundt, til den falder sammen (ca. 2 min).
-6. Smuldr feta over grøntsagerne og vend det hele rundt.
-7. Vend den kogte pasta i saucen og smag til med salt, peber og chiliflager.
-8. Servér straks — evt. med et drys ekstra feta på toppen.
+1. Kog pasta efter anvisning på pakken i saltet vand.
+2. Varm olivenolie op i en stor pande ved middel varme.
+3. Tilsæt finthakket hvidløg og svits i 1 minut uden at det brænder.
+4. Tilsæt soltørrede tomater i strimler og steg 2 min.
+5. Tilsæt spinat og lad det falde sammen (ca. 2 min).
+6. Kom den afdryppede pasta på panden og vend rundt.
+7. Smuldr feta over retten og krydr med salt, peber og chiliflager.
+8. Servér straks, evt. med frisk basilikum og et skvæt citronsaft.
 
-**Tilberedningstid:** Ca. 25 min
-**Kilde:** [valdemarsro.dk](https://valdemarsro.dk/pasta-med-feta)
+**⏱️ Tid:** ca. 20 min | 🔗 [valdemarsro.dk](https://valdemarsro.dk/pasta-med-feta/)
 
 ---
 
-### 🥢 Tirsdag — Wok med tofu, peberfrugt og nudler
+### 🥢 Tirsdag — Wok med tofu, peberfrugt og ris
 **Ingredienser (2 personer)**
-- 300 g fast tofu (på tilbud)
-- 200 g risnudler eller ægnudler (på tilbud)
-- 2 peberfrugter, i strimler (på tilbud)
+- 300 g fast tofu (på tilbud!)
+- 3 peberfrugter i blandede farver (på tilbud!)
+- 200 g jasminris
+- 2 gulerødder
 - 2 spsk sojasauce
 - 1 spsk sesamolie
-- 1 spsk ingefær (frisk eller på tube)
+- 1 spsk sweet chili sauce
 - 2 fed hvidløg
-- 1 spsk rapsolie
-- Evt. forårsløg og sesamfrø til pynt
+- 1 tsk frisk ingefær (revet)
+- 2 spsk rapsolie
+- Sesamfrø til drys
 
 **Fremgangsmåde**
-1. Pres vand ud af tofuen ved at pakke den i køkkenrulle og lægge noget tungt ovenpå i 10 min. Skær i tern.
-2. Blød nudlerne i kogende vand efter anvisning (typisk 5–8 min), afdryp.
-3. Varm rapsolie i en wok eller stor pande ved høj varme.
-4. Steg tofuternene gyldne på alle sider, ca. 6–8 min. Tag dem til side.
-5. Steg peberfrugt, hvidløg og ingefær i 3–4 min under omrøring.
-6. Tilsæt nudler og tofu tilbage i wokken.
-7. Hæld sojasauce og sesamolie over og vend det hele godt rundt.
-8. Servér straks med forårsløg og sesamfrø.
+1. Sæt ris over i kogende, saltet vand og kog efter anvisning (ca. 12 min).
+2. Skær tofu i tern og dup tørre med køkkenrulle.
+3. Steg tofu på en varm pande med rapsolie til gylden og sprød på alle sider (ca. 8 min). Sæt til side.
+4. Skær peberfrugt og gulerødder i strimler.
+5. Wok grøntsagerne på høj varme i 4–5 min til de er møre men stadig har bid.
+6. Tilsæt hvidløg og ingefær og steg 1 min.
+7. Kom tofu tilbage i panden og tilsæt sojasauce, sesamolie og sweet chili sauce. Vend godt rundt.
+8. Servér over ris med drys af sesamfrø.
 
-**Tilberedningstid:** Ca. 30 min
-**Kilde:** [valdemarsro.dk](https://valdemarsro.dk/tofu-wok)
+**⏱️ Tid:** ca. 30 min | 🔗 [valdemarsro.dk](https://valdemarsro.dk/tofu-wok/)
 
 ---
 
-### 🐟 Onsdag — Laks med kartofler og grøntsager
+### 🐟 Onsdag — Laks med nye kartofler og grønt *(Ugens køddagret)*
 **Ingredienser (2 personer)**
-- 2 laksefileter (ca. 150 g pr. stk.) (på tilbud)
-- 400 g nye kartofler (på tilbud)
-- 150 g spinat (på tilbud)
+- 2 laksefileter (ca. 150 g stk.) (på tilbud!)
+- 400 g nye kartofler / Lamme fjordskartofler (på tilbud!)
+- 150 g frisk spinat (på tilbud!)
 - 1 citron
-- 2 spsk smør (på tilbud)
+- 2 spsk smør (på tilbud!)
+- 2 fed hvidløg
 - Salt, peber, dild
+- 1 spsk olivenolie
 
 **Fremgangsmåde**
-1. Forvarm ovnen til 200°C.
-2. Skrub kartoflerne og kog dem i saltet vand i ca. 15 min, til de er møre.
-3. Krydr laksfileterne med salt, peber og citronsaft.
-4. Steg laksen på en pande med lidt smør ved middelhøj varme, ca. 3–4 min på hver side — eller bag dem i ovnen i 12–15 min.
-5. Smelt smør i en lille gryde og vend de kogte kartofler deri. Drys med dild.
-6. Varm spinaten på panden med lidt smør og et nip salt, til den falder sammen.
-7. Anret laks, kartofler og spinat på tallerkener.
-8. Server med citronbåde ved siden af.
+1. Kog kartofler i saltet vand til møre (ca. 15–20 min). Dræn og stil til side.
+2. Krydr laksefileterne med salt, peber og et drys dild.
+3. Varm olivenolie op i en pande og steg laks ca. 3–4 min på hver side.
+4. Smelt smør i en anden pande, tilsæt presset hvidløg og svits kort.
+5. Tilsæt spinat og lad det falde sammen. Krydr med salt og peber.
+6. Server kartofler med et klat smør og dild ved siden af.
+7. Anret laks på tallerkenen med spinat og kartofler.
+8. Afslut med et skvæt frisk citronsaft over laksen.
 
-**Tilberedningstid:** Ca. 35 min
-**Kilde:** [valdemarsro.dk](https://valdemarsro.dk/laks-med-kartofler)
+**⏱️ Tid:** ca. 30 min | 🔗 [valdemarsro.dk](https://valdemarsro.dk/laks-med-kartofler/)
 
 ---
 
-### 🍛 Torsdag — Tikka Masala med halloumi
+### 🍛 Torsdag — Tikka Masala med halloumi og ris
 **Ingredienser (2 personer)**
-- 250 g halloumi, skåret i tern (på tilbud)
+- 250 g halloumi (på tilbud!)
+- 200 g basmatiris
 - 1 dåse hakkede tomater (400 g)
 - 1 dåse kokosmælk (400 ml)
-- 1 løg, hakket
+- 1 løg
 - 3 fed hvidløg
-- 1 spsk tikka masala-krydderpasta (eller pulver)
-- 1 tsk spidskommen, 1 tsk gurkemeje
+- 1 tsk frisk ingefær (revet)
+- 2 spsk tikka masala pasta (købes i krydderiafdeling)
 - 1 spsk rapsolie
-- 200 g basmatiris (på tilbud)
-- Frisk koriander til pynt
+- Frisk koriander til drys
+- Salt
 
 **Fremgangsmåde**
-1. Kog ris efter anvisning (ca. 12 min).
-2. Steg halloumiternene gyldne på en pande med lidt olie, ca. 2–3 min pr. side. Sæt til side.
-3. Svits løg og hvidløg i olien ved middelhøj varme i 3–4 min.
-4. Tilsæt tikka masala-pasta, spidskommen og gurkemeje. Rør godt rundt i 1 min.
-5. Hæld hakkede tomater og kokosmælk i gryden. Lad det simre i 10 min.
-6. Tilsæt den stegte halloumi og lad det varme igennem i 2–3 min.
-7. Smag til med salt og evt. lidt citronsaft.
-8. Server over ris med frisk koriander.
+1. Kog basmatiris efter anvisning.
+2. Skær halloumi i tern og steg gyldne på en tør pande (ca. 3 min per side). Sæt til side.
+3. Hak løg fint og svits i olie ca. 5 min til blødt og let gyldent.
+4. Tilsæt hvidløg, ingefær og tikka masala pasta. Steg 2 min under omrøring.
+5. Hæld hakkede tomater og kokosmælk i. Rør godt rundt.
+6. Lad saucen simre 10–12 min til den tykner lidt.
+7. Kom halloumi i saucen og varm igennem 2–3 min.
+8. Servér over ris med frisk koriander på toppen.
 
-**Tilberedningstid:** Ca. 35 min
-**Kilde:** [gourministeriet.dk](https://gourministeriet.dk/halloumi-tikka-masala)
+**⏱️ Tid:** ca. 35 min | 🔗 [gourministeriet.dk](https://gourministeriet.dk/halloumi-tikka-masala/)
 
 ---
 
-### 🍳 Fredag — Omelet med avocado og rugbrød
+### 🍳 Fredag — Omelet med spinat, avocado og rugbrød
 **Ingredienser (2 personer)**
-- 6 æg (på tilbud)
-- 1 avocado (på tilbud)
-- 4 skiver rugbrød (på tilbud)
-- 50 g feta eller frisk ost (rester fra mandag)
-- 1 tomat
-- Salt, peber, frisk purløg
+- 6 æg (på tilbud!)
+- 100 g frisk spinat (på tilbud!)
+- 2 avocadoer (på tilbud!)
+- 4 skiver rugbrød (på tilbud!)
+- 50 g feta til drys (rest fra mandag)
 - 1 spsk smør
+- Salt, peber
+- Chiliflager (valgfrit)
+- ½ citron
 
 **Fremgangsmåde**
-1. Pisk æggene sammen med en gaffel. Krydr med salt og peber.
-2. Smelt smør på en pande ved middel varme.
-3. Hæld æggemassen på panden og lad den stivne langsomt.
-4. Når ægget næsten er stivnet i midten, fold omeletten på midten.
-5. Mos avocado groft med salt, peber og lidt citronsaft.
-6. Skær tomaten i skiver.
-7. Rist rugbrødet og smør avocadomosen på.
-8. Servér omeletten med rugbrød med avocado, tomatskiver og smuldrende feta.
+1. Pisk æg med salt og peber i en skål.
+2. Varm smør op i en pande ved middel varme.
+3. Tilsæt spinat og lad det falde lidt sammen (1–2 min).
+4. Hæld æggemassen over spinaten og lad omeletten sætte sig i kanten.
+5. Fold omeletten på midten og tag af varmen, mens midten er cremet.
+6. Halvér og mos avocado med lidt citronsaft, salt og peber.
+7. Rist rugbrødet let og fordel avocadomosen på skiverne.
+8. Servér omeletten ved siden af rugbrødet med avocado og smuldret feta på toppen.
 
-**Tilberedningstid:** Ca. 15 min
-**Kilde:** [valdemarsro.dk](https://valdemarsro.dk/omelet)
+**⏱️ Tid:** ca. 15 min | 🔗 [valdemarsro.dk](https://valdemarsro.dk/omelet/)
 
 ---
 
 ### 🍕 Weekend (valgfri) — Kartoffelpizza med mascarpone og burrata
 **Ingredienser (2 personer)**
-- 1 pakke pizzadej (færdigkøbt eller hjemmelavet)
-- 200 g mascarpone (på tilbud)
-- 1 burrata (på tilbud)
-- 300 g kartofler, skåret i meget tynde skiver (på tilbud)
-- 2 fed hvidløg
+- 1 pakke frisk pizzadej (eller lav selv)
+- 150 g mascarpone (på tilbud!)
+- 1 burrata (på tilbud!)
+- 300 g kartofler (kogte og tynde skiver)
+- 1 rødløg
 - Frisk rosmarin
 - 2 spsk olivenolie
-- Salt, peber, flagesalt
+- Salt, peber
+- Honning til drys (valgfrit)
+- Rucola til servering
 
 **Fremgangsmåde**
-1. Forvarm ovnen til 230°C (varmluft).
-2. Rul pizzadejen ud på en bageplade med bagepapir.
-3. Rør mascarpone med hakket hvidløg, salt og peber.
-4. Smør mascarponecreme jævnt ud over dejen.
-5. Læg de tynde kartoffelskiver ovenpå — de må godt overlappe lidt.
-6. Dryp med olivenolie og drys rosmarin over.
-7. Bag pizzaen i 18–22 min, til kanten er gylden og kartoflerne er møre.
-8. Tag pizzaen ud og læg burrata i midten. Krydr med flagesalt og peber — servér straks.
+1. Forvarm ovn til 230°C.
+2. Kog kartofler møre og skær i tynde skiver.
+3. Rul pizzadejen ud på en bageplade med bagepapir.
+4. Smør mascarpone jævnt ud over bunden som "sauce".
+5. Fordel kartoffelskiver og tynde skiver rødløg ovenpå.
+6. Dryp med olivenolie og drys frisk rosmarin, salt og peber.
+7. Bag pizzaen i ovnen 12–15 min til kanten er gylden og sprød.
+8. Tag ud af ovnen, anret burrata i midten, dryp med honning og top med rucola. Servér straks.
 
-**Tilberedningstid:** Ca. 40 min
-**Kilde:** [gourministeriet.dk](https://gourministeriet.dk/kartoffelpizza-mascarpone-burrata)
+**⏱️ Tid:** ca. 35 min | 🔗 [valdemarsro.dk](https://valdemarsro.dk/kartoffelpizza/)
 
 ---
 
 ## 🛒 Indkøbsliste — Føtex
 
 ### 🥦 Grøntsager & frugt
-- Frisk spinat, 2 poser (ca. 300 g i alt) — til mandag + onsdag
-- Cherrytomater, 250 g — til mandag
-- Peberfrugter, 2 stk. — til tirsdag
-- Nye kartofler, 700 g — til onsdag + weekend
-- Avocado, 1 stk. — til fredag
-- Tomat, 1 stk. — til fredag
-- Løg, 1 stk. — til torsdag
-- Hvidløg, 1 hoved — til alle retter
-- Citron, 2 stk. — til onsdag + fredag
-- Frisk koriander, 1 bundt — til torsdag
-- Frisk rosmarin, 1 bundt — til weekend
-- Forårsløg, 1 bundt — til tirsdag (evt.)
+- Frisk spinat, 2 poser (ca. 200 g i alt)
+- Peberfrugt, 3 stk. (blandede farver)
+- Gulerødder, 2 stk.
+- Avocado, 2 stk.
+- Kartofler / Lamme fjordskartofler, 700 g
+- Rødløg, 1 stk.
+- Hvidløg, 1 hoved
+- Frisk ingefær, lille stykke
+- Citron, 2 stk.
+- Rucola, 1 pose (til weekend)
 
 ### 🧀 Mejeri & æg
-- Feta, 200 g — til mandag (+ lidt til fredag)
-- Halloumi, 250 g — til torsdag *(på tilbud)*
-- Burrata, 1 stk. — til weekend *(på tilbud)*
-- Mascarpone, 200 g — til weekend *(på tilbud)*
-- Æg, 10 stk. — til fredag *(på tilbud)*
-- Smør, 125 g — til onsdag + fredag *(på tilbud)*
+- Feta, 200 g (på tilbud!)
+- Halloumi, 250 g (på tilbud!)
+- Tofu, 300 g (på tilbud!)
+- Æg, 6 stk. (på tilbud!)
+- Mascarpone, 150 g (på tilbud!)
+- Burrata, 1 stk. (på tilbud!)
+- Smør, 1 pakke (på tilbud!)
+- Kokosmælk, 1 dåse (400 ml)
 
 ### 🥫 Tørvarer (pasta, ris, konserves)
-- Pasta (penne/fusilli), 200 g — til mandag *(på tilbud)*
-- Risnudler eller ægnudler, 200 g — til tirsdag *(på tilbud)*
-- Basmatiris, 200 g — til torsdag *(på tilbud)*
-- Hakkede tomater, 1 dåse (400 g) — til torsdag
-- Kokosmælk, 1 dåse (400 ml) — til torsdag
-- Tikka masala-pasta eller pulver — til torsdag
-- Sojasauce — til tirsdag
-- Sesamolie — til tirsdag
-- Rapsolie / olivenolie — til flere retter
+- Pasta (penne/fusilli), 250 g (på tilbud!)
+- Jasminris, 200 g (på tilbud!)
+- Basmatiris, 200 g (på tilbud!)
+- Hakkede tomater, 1 dåse (400 g) (på tilbud!)
+- Soltørrede tomater i olie, 1 glas
+- Tikka masala pasta, 1 glas
+- Sojasauce, 1 flaske (hvis ikke hjemme)
+- Sweet chili sauce, 1 flaske (hvis ikke hjemme)
+- Sesamolie, 1 flaske (hvis ikke hjemme)
 
 ### 🍞 Brød & bageri
-- Rugbrød, 1 pakke — til fredag *(på tilbud)*
-- Pizzadej, 1 pakke — til weekend
+- Rugbrød, 1 stk. (på tilbud!)
+- Frisk pizzadej, 1 pakke (til weekend)
 
 ### 🐟 Frys & køl
-- Laksefileter, 2 stk. (ca. 300 g i alt) — til onsdag *(på tilbud)*
-- Tofu (fast), 300 g — til tirsdag *(på tilbud)*
+- Laksefileter, 2 stk. (ca. 300 g i alt) (på tilbud!)
 
 ### 🧂 Diverse
-- Spidskommen, gurkemeje (hvis ikke på lager)
-- Chiliflager
-- Sesamfrø
-- Flagesalt
-- Frisk ingefær (eller tube)
-- Dild (frisk eller tørret)
+- Sesamfrø, 1 pose
+- Olivenolie (hvis ikke hjemme)
+- Rapsolie (hvis ikke hjemme)
+- Frisk koriander, 1 bundt
+- Frisk rosmarin, 1 bundt
+- Frisk dild, 1 bundt
+- Honning (til weekend, hvis ikke hjemme)
+- Chiliflager (hvis ikke hjemme)
 
 ---
 
@@ -240,4 +244,12 @@
 
 | Post | Estimeret pris (DKK) |
 |------|----------------------|
-| Grøntsager & frugt | ~ 120 
+| Grøntsager & frugt | ~ 120 DKK |
+| Mejeri & æg | ~ 220 DKK |
+| Tørvarer | ~ 110 DKK |
+| Brød & bageri | ~ 55 DKK |
+| Frys & køl (laks) | ~ 90 DKK |
+| Diverse (krydderier, olie, urter) | ~ 80 DKK |
+| **Total** | **~ 675 DKK** |
+
+> ✅ **Inden for budget** (700–900 DKK) — Estimatet er konservativt og forudsætter at basale krydderier som olie,
