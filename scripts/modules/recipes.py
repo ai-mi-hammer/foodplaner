@@ -33,15 +33,16 @@ def _fetch_posts(api_url: str) -> list[dict]:
                 timeout=12,
             )
             if not r.ok:
+                print(f"  ⚠️  {api_url} side {page}: HTTP {r.status_code} — {r.text[:200]}")
                 break
             posts = r.json()
             if not posts:
                 break
             all_posts.extend(posts)
-            # Hvis vi fik færre end PER_PAGE er vi på sidste side
             if len(posts) < PER_PAGE:
                 break
-        except Exception:
+        except Exception as e:
+            print(f"  ⚠️  {api_url} side {page}: {type(e).__name__}: {e}")
             break
     return all_posts
 

@@ -103,7 +103,7 @@ Weekend    → {meals.get('Weekend', '—')} (valgfri)
 
 def create_event(description: str, week_number: int, next_sunday: datetime) -> dict:
     access_token = get_access_token()
-    calendar_id  = os.environ.get('CALENDAR_ID', 'ai.mi.hammer@gmail.com')
+    calendar_id  = os.environ.get('CALENDAR_ID', 'ai.mi.hammer@gmail.com').strip()
 
     event = {
         'summary':     f'🍽️ Ugens Madplan — Uge {week_number}',
