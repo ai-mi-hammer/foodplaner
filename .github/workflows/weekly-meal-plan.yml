@@ -1,0 +1,41 @@
+name: 🍽️ Ugentlig Madplan
+
+on:
+  schedule:
+    - cron: '0 7 * * 0'  # Søndag kl. 9:00 dansk sommertid (UTC+2)
+  workflow_dispatch:       # Kan også køres manuelt fra GitHub
+
+jobs:
+  generer-madplan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Hent kode
+        uses: actions/checkout@v4
+
+      - name: Opsæt Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer pakker
+        run: pip install anthropic requests
+
+      - name: Generér madplan og kalenderbegivenhed
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          CALENDAR_ID: ai.mi.hammer@gmail.com
+        run: python scripts/generate_meal_plan.py
+
+      - name: Gem madplan i git
+        run: |
+          git config --local user.email "madplan-bot@github-actions"
+          git config --local user.name "Madplan Bot 🍽️"
+          git add ugens-madplan.md
+          git diff --staged --quiet || git commit -m "🍽️ Ugens madplan - $(date '+Uge %V, %d. %B %Y')"
+          git push
