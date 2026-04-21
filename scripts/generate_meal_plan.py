@@ -32,21 +32,52 @@ def get_google_access_token():
     return r.json()['access_token']
 
 def fetch_offers():
-    """Forsøger at hente aktuelle tilbud fra etilbudsavis.dk."""
-    results = []
+    """Forsøger at hente aktuelle tilbud fra etilbudsavis.dk for alle relevante produkter."""
     endpoints = [
-        ('halloumi', 'https://etilbudsavis.dk/soeg/halloumi'),
-        ('feta',     'https://etilbudsavis.dk/soeg/feta'),
-        ('tofu',     'https://etilbudsavis.dk/soeg/tofu'),
+        # Ost & mejeriprodukter
+        ('halloumi',     'https://etilbudsavis.dk/soeg/halloumi'),
+        ('feta',         'https://etilbudsavis.dk/soeg/feta'),
+        ('burrata',      'https://etilbudsavis.dk/soeg/burrata'),
+        ('mascarpone',   'https://etilbudsavis.dk/soeg/mascarpone'),
+        ('mozzarella',   'https://etilbudsavis.dk/soeg/mozzarella'),
+        ('fløde',        'https://etilbudsavis.dk/soeg/fløde'),
+        ('æg',           'https://etilbudsavis.dk/soeg/æg'),
+        # Planteprotein
+        ('tofu',         'https://etilbudsavis.dk/soeg/tofu'),
+        ('kikærter',     'https://etilbudsavis.dk/soeg/kikærter'),
+        ('linser',       'https://etilbudsavis.dk/soeg/linser'),
+        # Grøntsager
+        ('grøntsager',   'https://etilbudsavis.dk/soeg/grøntsager'),
+        ('peberfrugt',   'https://etilbudsavis.dk/soeg/peberfrugt'),
+        ('spinat',       'https://etilbudsavis.dk/soeg/spinat'),
+        ('avocado',      'https://etilbudsavis.dk/soeg/avocado'),
+        ('kartofler',    'https://etilbudsavis.dk/soeg/kartofler'),
+        ('tomater',      'https://etilbudsavis.dk/soeg/tomater'),
+        # Tørvarer
+        ('pasta',        'https://etilbudsavis.dk/soeg/pasta'),
+        ('ris',          'https://etilbudsavis.dk/soeg/ris'),
+        ('nudler',       'https://etilbudsavis.dk/soeg/nudler'),
+        # Brød & andet
+        ('pitabrød',     'https://etilbudsavis.dk/soeg/pitabrød'),
+        ('rugbrød',      'https://etilbudsavis.dk/soeg/rugbrød'),
+        # Kød
+        ('kylling',      'https://etilbudsavis.dk/soeg/kylling'),
+        ('hakket oksekød', 'https://etilbudsavis.dk/soeg/hakket+oksekød'),
+        ('svinekød',     'https://etilbudsavis.dk/soeg/svinekød'),
+        ('laks',         'https://etilbudsavis.dk/soeg/laks'),
+        # Mejeri
+        ('mælk',         'https://etilbudsavis.dk/soeg/mælk'),
+        ('smør',         'https://etilbudsavis.dk/soeg/smør'),
+        ('yoghurt',      'https://etilbudsavis.dk/soeg/yoghurt'),
     ]
     headers = {'User-Agent': 'Mozilla/5.0 (compatible; MealPlanBot/1.0)'}
+    results = []
     for name, url in endpoints:
         try:
             r = requests.get(url, headers=headers, timeout=10)
             if r.status_code == 200 and len(r.text) > 500:
-                # Udtræk kun tekst-indhold (fjern HTML-tags)
                 text = re.sub(r'<[^>]+>', ' ', r.text)
-                text = re.sub(r'\s+', ' ', text)[:1500]
+                text = re.sub(r'\s+', ' ', text)[:800]
                 results.append(f"[{name}]: {text}")
         except Exception:
             pass
@@ -72,19 +103,24 @@ Din opgave er at lave en komplet ugentlig madplan. Brug tilbuddene til at vælge
 KRAV:
 - Altid for 2 personer
 - 5 hverdagsmiddage (man–fre) + valgfrit weekendforslag
-- Ingen protein mere end 2 gange per uge (proteiner: halloumi, tofu, feta, æg, laks, bælgfrugter)
-- Alt vegetarisk (lejlighedsvist fisk/laks OK)
+- Præcis 1 køddagret per uge (kylling, oksekød, lam eller svinekød)
+- Resten vegetarisk (fisk/laks tæller som vegetar her)
+- Ingen protein mere end 2 gange per uge (proteiner: halloumi, tofu, feta, æg, laks, bælgfrugter, kylling, oksekød)
 - Hverdagsretter under 45 min
 - Indkøb i Føtex ELLER SuperBrugsen — vælg ét supermarked
 - Budget: 700–900 DKK/uge. Flaget hvis over 900 DKK.
 - Output på dansk
 
 YNDLINGSRETTER (vælg varieret):
-Onepotpasta (vegetar), Pitabrød med fyld, Omelet, Wok med halloumi/tofu,
+Vegetar: Onepotpasta, Pitabrød med fyld, Omelet, Wok med halloumi/tofu,
 Tikka Masala med halloumi, Vegetartærte, Vegetarlasagne,
-Rugbrød med avocado og kartoffel (eller laks), Madpandekager,
+Rugbrød med avocado og kartoffel, Madpandekager,
 Vietnamesiske forårsruller med peanutbutterdip,
 Kartoffelpizza med mascarpone og burrata, Pasta med feta og salat, Risotto
+
+Kød (vælg 1 per uge): Kyllingepasta, Kylling i ovn med rodfrugter,
+Kødsovs med pasta, Wok med kylling, Tacos med hakket oksekød,
+Kyllingesuppe, Laks med kartofler og grønt, Kylling tikka masala
 
 OPSKRIFTSKILDER — henvis til:
 - https://valdemarsro.dk
