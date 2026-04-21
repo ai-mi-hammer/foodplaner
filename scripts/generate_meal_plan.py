@@ -201,15 +201,65 @@ def extract_total_budget(meal_plan_text: str) -> str:
                 return numbers[-1]
     return '~800'
 
-def build_calendar_description(meal_plan_text: str, week_number: int, today: datetime) -> str:
-    meals = extract_meals(meal_plan_text)
-    supermarket = extract_supermarket(meal_plan_text)
-    budget = extract_total_budget(meal_plan_text)
+def get_dated_filename(today: datetime, week_number: int) -> str:
+    """Genererer filnavn med uge og datointerval, fx ugens-madplan-uge17-21apr-27apr2026.md"""
     week_end = today + timedelta(days=6)
-    date_range = f"{today.strftime('%d.')}-{week_end.strftime('%d. %B %Y')}"
+    start = today.strftime('%d%b').lower()
+    end   = week_end.strftime('%d%b%Y').lower()
+    # Dansk månedsforkortelse
+    danish_months = {
+        'jan': 'jan', 'feb': 'feb', 'mar': 'mar', 'apr': 'apr',
+        'may': 'maj', 'jun': 'jun', 'jul': 'jul', 'aug': 'aug',
+        'sep': 'sep', 'oct': 'okt', 'nov': 'nov', 'dec': 'dec',
+    }
+    for en, da in danish_months.items():
+        start = start.replace(en, da)
+        end   = end.replace(en, da)
+    return f"ugens-madplan-uge{week_number}-{start}-{end}.md"
+
+def extract_grocery_list(meal_plan_text: str) -> str:
+    """Udtrækker indkøbslisten fra madplan-teksten."""
+    lines = meal_plan_text.split('\n')
+    in_grocery = False
+    grocery_lines = []
+    for line in lines:
+        if '🛒 Indkøbsliste' in line:
+            in_grocery = True
+            grocery_lines.append(line.strip())
+            continue
+        if in_grocery:
+            if line.startswith('## ') and '🛒' not in line:
+                break
+            grocery_lines.append(line.strip())
+    return '\n'.join(grocery_lines).strip()
+
+def extract_offers_used(meal_plan_text: str) -> str:
+    """Udtrækker tilbudssektionen fra madplan-teksten."""
+    lines = meal_plan_text.split('\n')
+    in_offers = False
+    offer_lines = []
+    for line in lines:
+        if '🏷️' in line and 'tilbud' in line.lower():
+            in_offers = True
+            continue
+        if in_offers:
+            if line.startswith('## ') or line.startswith('---') or line.startswith('*Madplan'):
+                break
+            if line.strip():
+                offer_lines.append(line.strip())
+    return '\n'.join(offer_lines).strip()
+
+def build_calendar_description(meal_plan_text: str, week_number: int, today: datetime, filename: str) -> str:
+    meals       = extract_meals(meal_plan_text)
+    supermarket = extract_supermarket(meal_plan_text)
+    budget      = extract_total_budget(meal_plan_text)
+    grocery     = extract_grocery_list(meal_plan_text)
+    offers      = extract_offers_used(meal_plan_text)
+    week_end    = today + timedelta(days=6)
+    date_range  = f"{today.strftime('%d.')}-{week_end.strftime('%d. %B %Y')}"
+    github_link = f"https://github.com/ai-mi-hammer/foodplaner/blob/main/arkiv/{filename}"
 
     return f"""🗓️ Ugens middage ({date_range})
-
 🛒 Supermarked: {supermarket} | 💰 Budget: ~{budget} DKK
 
 ━━━━━━━━━━━━━━━━━━━━━━
@@ -221,21 +271,27 @@ Fredag     → {meals.get('Fredag', '—')}
 Weekend    → {meals.get('Weekend', '—')} (valgfri)
 ━━━━━━━━━━━━━━━━━━━━━━
 
-📋 Se fuld opskriftsoversigt og indkøbsliste i GitHub-repoet (ugens-madplan.md)"""
+{grocery}
+
+🏷️ Ugens tilbud brugt:
+{offers}
+
+📋 Fuld opskriftsoversigt: {github_link}"""
 
 def create_calendar_event(description: str, week_number: int, next_sunday: datetime):
     access_token = get_google_access_token()
     calendar_id  = os.environ.get('CALENDAR_ID', 'ai.mi.hammer@gmail.com')
 
-    sunday_str = next_sunday.strftime('%Y-%m-%d')
-    monday_str = (next_sunday + timedelta(days=1)).strftime('%Y-%m-%d')
+    # Søndag kl. 9:00–9:30 dansk tid (Europe/Copenhagen)
+    sunday_start = next_sunday.strftime('%Y-%m-%dT09:00:00')
+    sunday_end   = next_sunday.strftime('%Y-%m-%dT09:30:00')
 
     event = {
         'summary':     f'🍽️ Ugens Madplan — Uge {week_number}',
         'description': description,
         'colorId':     '10',
-        'start':       {'date': sunday_str},
-        'end':         {'date': monday_str},
+        'start':       {'dateTime': sunday_start, 'timeZone': 'Europe/Copenhagen'},
+        'end':         {'dateTime': sunday_end,   'timeZone': 'Europe/Copenhagen'},
         'attendees':   [
             {'email': 'ai.mi.hammer@gmail.com'},
             {'email': 'mikkel.lindberg.hammer@gmail.com'},
@@ -261,6 +317,11 @@ def main():
 
     print(f"🍽️  Genererer madplan for uge {week_number}...")
 
+    # Filnavne
+    dated_filename = get_dated_filename(today, week_number)
+    archive_path   = f"arkiv/{dated_filename}"
+    os.makedirs('arkiv', exist_ok=True)
+
     # 1. Hent tilbud
     print("🔍 Henter tilbud fra etilbudsavis.dk...")
     offers = fetch_offers()
@@ -270,15 +331,17 @@ def main():
     meal_plan = generate_meal_plan(week_number, today, offers)
     print("✅ Madplan genereret")
 
-    # 3. Gem til fil
+    # 3. Gem til fil — både som løbende og dateret arkivfil
     with open('ugens-madplan.md', 'w', encoding='utf-8') as f:
         f.write(meal_plan)
-    print("✅ Gemt til ugens-madplan.md")
+    with open(archive_path, 'w', encoding='utf-8') as f:
+        f.write(meal_plan)
+    print(f"✅ Gemt til ugens-madplan.md og {archive_path}")
 
     # 4. Opret Google Calendar begivenhed
     print("📅 Opretter kalenderbegivenhed...")
     try:
-        description = build_calendar_description(meal_plan, week_number, today)
+        description = build_calendar_description(meal_plan, week_number, today, dated_filename)
         event = create_calendar_event(description, week_number, next_sunday)
         print(f"✅ Kalenderbegivenhed oprettet: {event.get('htmlLink', '—')}")
     except Exception as e:
