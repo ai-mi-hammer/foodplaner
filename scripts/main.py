@@ -9,6 +9,7 @@ from datetime import datetime
 
 from modules.utils     import get_week_number, get_next_sunday, get_dated_filename
 from modules.offers    import fetch_offers
+from modules.recipes   import fetch_recipe_urls, format_recipe_urls_for_prompt
 from modules.meal_plan import generate_meal_plan
 from modules.calendar  import build_description, create_event
 
@@ -29,9 +30,16 @@ def main():
     print("🔍 Henter tilbud fra etilbudsavis.dk...")
     offers = fetch_offers()
 
-    # 2. Generér madplan via Claude
+    # 2. Hent verificerede opskrifts-URL'er
+    print("📖 Henter opskrifts-URL'er fra valdemarsro.dk og gourministeriet.dk...")
+    recipe_urls = fetch_recipe_urls()
+    total = sum(len(v) for v in recipe_urls.values())
+    print(f"✅ Fandt {total} opskrifts-URL'er")
+    recipe_info = format_recipe_urls_for_prompt(recipe_urls)
+
+    # 3. Generér madplan via Claude
     print("🤖 Kalder Claude API...")
-    meal_plan = generate_meal_plan(week_number, today, offers)
+    meal_plan = generate_meal_plan(week_number, today, offers, recipe_info)
     print("✅ Madplan genereret")
 
     # 3. Gem filer

@@ -8,12 +8,12 @@ import anthropic
 CLAUDE_MODEL = 'claude-sonnet-4-6'
 
 
-def generate_meal_plan(week_number: int, today: datetime, offers_info: str) -> str:
+def generate_meal_plan(week_number: int, today: datetime, offers_info: str, recipe_info: str = '') -> str:
     client   = anthropic.Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
     week_end = today + timedelta(days=6)
     date_range = f"{today.strftime('%d.')}-{week_end.strftime('%d. %B %Y')}"
 
-    prompt = _build_prompt(week_number, today, date_range, offers_info)
+    prompt = _build_prompt(week_number, today, date_range, offers_info, recipe_info)
 
     message = client.messages.create(
         model=CLAUDE_MODEL,
@@ -23,12 +23,14 @@ def generate_meal_plan(week_number: int, today: datetime, offers_info: str) -> s
     return message.content[0].text
 
 
-def _build_prompt(week_number: int, today: datetime, date_range: str, offers_info: str) -> str:
+def _build_prompt(week_number: int, today: datetime, date_range: str, offers_info: str, recipe_info: str = '') -> str:
     return f"""Du er en madplanassistent for et dansk vegetarisk par (2 personer).
 I dag er det {today.strftime('%A %d. %B %Y')}, uge {week_number}.
 
 TILBUDSINFORMATION DENNE UGE:
 {offers_info}
+
+{recipe_info}
 
 Din opgave er at lave en komplet ugentlig madplan. Brug tilbuddene til at vælge retter.
 
@@ -60,9 +62,11 @@ Kød (vælg 1 per uge): Kyllingepasta, Kylling i ovn med rodfrugter,
 Kødsovs med pasta, Wok med kylling, Tacos med hakket oksekød,
 Kyllingesuppe, Laks med kartofler og grønt, Kylling tikka masala
 
-OPSKRIFTSKILDER — henvis til:
-- https://valdemarsro.dk
-- https://gourministeriet.dk
+OPSKRIFTSKILDER:
+- Brug KUN URL'er fra listen "VERIFICEREDE OPSKRIFTS-URL'ER" ovenfor
+- Find en URL der passer til retten — brug den præcist som den står i listen
+- Hvis ingen URL passer til en ret, skriv kun domænenavnet (valdemarsro.dk eller gourministeriet.dk)
+- Find ALDRIG på egne URL-stier
 
 OUTPUTFORMAT (markdown — følg præcis denne struktur):
 
@@ -78,18 +82,18 @@ OUTPUTFORMAT (markdown — følg præcis denne struktur):
 
 | Dag | Ret | Opskriftskilde |
 |-----|-----|----------------|
-| Mandag | ... | [link] |
-| Tirsdag | ... | [link] |
-| Onsdag | ... | [link] |
-| Torsdag | ... | [link] |
-| Fredag | ... | [link] |
+| Mandag | ... | [Opskriftsnavn](https://valdemarsro.dk/...) |
+| Tirsdag | ... | [Opskriftsnavn](https://gourministeriet.dk/...) |
+| Onsdag | ... | [Opskriftsnavn](https://valdemarsro.dk/...) |
+| Torsdag | ... | [Opskriftsnavn](https://valdemarsro.dk/...) |
+| Fredag | ... | [Opskriftsnavn](https://gourministeriet.dk/...) |
 | Weekend (valgfri) | ... | — |
 
 ---
 
 ## 📋 Opskriftsoversigt
 
-[For hver ret: navn, ingredienser for 2 personer, 5–8 trin på dansk, kilde-URL]
+[For hver ret: navn, ingredienser for 2 personer, 5–8 trin på dansk, og den verificerede URL fra listen]
 
 ---
 
