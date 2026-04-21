@@ -37,56 +37,90 @@ def get_google_access_token():
     return r.json()['access_token']
 
 def fetch_offers():
-    """Forsøger at hente aktuelle tilbud fra etilbudsavis.dk for alle relevante produkter."""
-    endpoints = [
-        # Ost & mejeriprodukter
-        ('halloumi',     'https://etilbudsavis.dk/soeg/halloumi'),
-        ('feta',         'https://etilbudsavis.dk/soeg/feta'),
-        ('burrata',      'https://etilbudsavis.dk/soeg/burrata'),
-        ('mascarpone',   'https://etilbudsavis.dk/soeg/mascarpone'),
-        ('mozzarella',   'https://etilbudsavis.dk/soeg/mozzarella'),
-        ('fløde',        'https://etilbudsavis.dk/soeg/fløde'),
-        ('æg',           'https://etilbudsavis.dk/soeg/æg'),
-        # Planteprotein
-        ('tofu',         'https://etilbudsavis.dk/soeg/tofu'),
-        ('kikærter',     'https://etilbudsavis.dk/soeg/kikærter'),
-        ('linser',       'https://etilbudsavis.dk/soeg/linser'),
-        # Grøntsager
-        ('grøntsager',   'https://etilbudsavis.dk/soeg/grøntsager'),
-        ('peberfrugt',   'https://etilbudsavis.dk/soeg/peberfrugt'),
-        ('spinat',       'https://etilbudsavis.dk/soeg/spinat'),
-        ('avocado',      'https://etilbudsavis.dk/soeg/avocado'),
-        ('kartofler',    'https://etilbudsavis.dk/soeg/kartofler'),
-        ('tomater',      'https://etilbudsavis.dk/soeg/tomater'),
-        # Tørvarer
-        ('pasta',        'https://etilbudsavis.dk/soeg/pasta'),
-        ('ris',          'https://etilbudsavis.dk/soeg/ris'),
-        ('nudler',       'https://etilbudsavis.dk/soeg/nudler'),
-        # Brød & andet
-        ('pitabrød',     'https://etilbudsavis.dk/soeg/pitabrød'),
-        ('rugbrød',      'https://etilbudsavis.dk/soeg/rugbrød'),
-        # Kød
-        ('kylling',      'https://etilbudsavis.dk/soeg/kylling'),
-        ('hakket oksekød', 'https://etilbudsavis.dk/soeg/hakket+oksekød'),
-        ('svinekød',     'https://etilbudsavis.dk/soeg/svinekød'),
-        ('laks',         'https://etilbudsavis.dk/soeg/laks'),
-        # Mejeri
-        ('mælk',         'https://etilbudsavis.dk/soeg/mælk'),
-        ('smør',         'https://etilbudsavis.dk/soeg/smør'),
-        ('yoghurt',      'https://etilbudsavis.dk/soeg/yoghurt'),
-    ]
-    headers = {'User-Agent': 'Mozilla/5.0 (compatible; MealPlanBot/1.0)'}
+    """
+    Henter aktuelle tilbud fra Tjek-API'et (backendet bag etilbudsavis.dk).
+    Søger på relevante produkter hos Føtex (dealer ID: bdf5A).
+    Henter også Føtex-publikationens aktuelle produkter som madinspirationskilde.
+    """
+    FOETEX_DEALER_ID = 'bdf5A'
+    TJEK_SEARCH      = 'https://squid-api.tjek.com/v2/offers/search'
+    TJEK_FRONTS      = 'https://squid-api.tjek.com/v2/dealerfront'
+    headers = {
+        'Accept':     'application/json',
+        'User-Agent': 'MealPlanBot/2.0',
+    }
     results = []
-    for name, url in endpoints:
+
+    # ── 1. Hent aktuelle Føtex-tilbudsavis for madinspirations-produkter ──────
+    try:
+        r = requests.get(
+            TJEK_FRONTS,
+            params={'dealer_id': FOETEX_DEALER_ID, 'limit': 100},
+            headers=headers, timeout=12,
+        )
+        if r.ok:
+            data = r.json()
+            # Udtræk produktnavne fra avisen som rå inspiration til Claude
+            names = []
+            for item in data if isinstance(data, list) else data.get('results', []):
+                heading = item.get('heading') or item.get('name', '')
+                price   = item.get('pricing', {}).get('price') or item.get('price', '')
+                if heading:
+                    names.append(f"{heading}" + (f" ({price} DKK)" if price else ''))
+            if names:
+                results.append("=== FØTEX TILBUDSAVIS (inspiration til retter) ===")
+                results.extend(names[:60])
+    except Exception:
+        pass
+
+    # ── 2. Søg på konkrete produkter vi altid vil kende prisen på ─────────────
+    produkter = [
+        'halloumi', 'feta', 'burrata', 'mascarpone', 'mozzarella',
+        'tofu', 'kikærter', 'æg',
+        'spinat', 'peberfrugt', 'avocado', 'kartofler', 'tomater', 'agurk',
+        'pasta', 'ris', 'nudler', 'pitabrød',
+        'kylling', 'laks', 'hakket oksekød',
+        'mælk', 'smør', 'yoghurt', 'fløde',
+    ]
+
+    results.append("\n=== PRODUKTSØGNING HOS FØTEX ===")
+    results.append("VIGTIGT: Priser mærket med 'TILBUDSPRIS' er faktiske priser fra tilbudsavisen.")
+    results.append("Brug dem præcist på indkøbslisten (ingen 'ca.'). Estimér kun priser der IKKE er i tilbudsavisen.\n")
+
+    for produkt in produkter:
         try:
-            r = requests.get(url, headers=headers, timeout=10)
-            if r.status_code == 200 and len(r.text) > 500:
-                text = re.sub(r'<[^>]+>', ' ', r.text)
-                text = re.sub(r'\s+', ' ', text)[:800]
-                results.append(f"[{name}]: {text}")
+            r = requests.get(
+                TJEK_SEARCH,
+                params={
+                    'query':      produkt,
+                    'dealer_ids': FOETEX_DEALER_ID,
+                    'limit':      3,
+                },
+                headers=headers, timeout=10,
+            )
+            if r.ok:
+                items = r.json() if isinstance(r.json(), list) else r.json().get('results', [])
+                for item in items[:3]:
+                    heading   = item.get('heading', '')
+                    desc      = item.get('description', '')
+                    pricing   = item.get('pricing') or {}
+                    price     = pricing.get('price', '')
+                    pre_price = pricing.get('pre_price', '')
+                    store     = (item.get('branding') or {}).get('name', '')
+                    if heading:
+                        line = f"[{produkt}] {heading}"
+                        if desc:      line += f" — {desc}"
+                        if price:     line += f" → TILBUDSPRIS: {price} DKK"
+                        if pre_price: line += f" (normalpris: {pre_price} DKK)"
+                        if store:     line += f" ✅ {store}"
+                        results.append(line)
         except Exception:
             pass
-    return '\n'.join(results) if results else 'Kunne ikke hente tilbud automatisk.'
+
+    if len(results) <= 4:
+        return 'Kunne ikke hente tilbud fra Tjek-API — brug estimerede priser.'
+
+    return '\n'.join(results)
 
 
 # ── Madplan-generering via Claude API ─────────────────────────────────────────
@@ -104,6 +138,12 @@ TILBUDSINFORMATION DENNE UGE:
 {offers_info}
 
 Din opgave er at lave en komplet ugentlig madplan. Brug tilbuddene til at vælge retter.
+
+PRISER PÅ INDKØBSLISTEN:
+- Varer mærket "TILBUDSPRIS" i tilbudsinformationen har en faktisk pris fra tilbudsavisen.
+  Brug denne pris præcist — INGEN "ca." foran tilbudspriser.
+- Varer uden tilbudspris: estimér prisen og skriv "ca. XX DKK".
+- Eksempel: "Halloumi 225g → 29 DKK" (tilbud) vs. "Pasta 500g — ca. 15 DKK" (estimat).
 
 KRAV:
 - Altid for 2 personer
@@ -291,8 +331,28 @@ def extract_offers_used(meal_plan_text: str) -> str:
     return '\n'.join(offer_lines).strip()
 
 def build_calendar_description(meal_plan_text: str, week_number: int, today: datetime, filename: str) -> str:
-    """Sender hele madplan-filen 1:1 som kalender-beskrivelse."""
-    return meal_plan_text
+    """Simpel beskrivelse: madplan-tabel + indkøbsliste + link til GitHub."""
+    meals       = extract_meals(meal_plan_text)
+    supermarket = extract_supermarket(meal_plan_text)
+    budget      = extract_total_budget(meal_plan_text)
+    grocery     = extract_grocery_list(meal_plan_text)
+    week_end    = today + timedelta(days=6)
+    date_range  = f"{today.strftime('%d.')}-{week_end.strftime('%d. %B %Y')}"
+    github_link = f"https://github.com/ai-mi-hammer/foodplaner/blob/main/arkiv/{filename}"
+
+    return f"""🗓️ Ugens middage ({date_range})
+🛒 Supermarked: {supermarket} | 💰 Budget: ~{budget} DKK
+
+Mandag     → {meals.get('Mandag', '—')}
+Tirsdag    → {meals.get('Tirsdag', '—')}
+Onsdag     → {meals.get('Onsdag', '—')}
+Torsdag    → {meals.get('Torsdag', '—')}
+Fredag     → {meals.get('Fredag', '—')}
+Weekend    → {meals.get('Weekend', '—')} (valgfri)
+
+{grocery}
+
+📋 Fuld madplan med opskrifter: {github_link}"""
 
 def create_calendar_event(description: str, week_number: int, next_sunday: datetime):
     access_token = get_google_access_token()

@@ -30,7 +30,7 @@ jobs:
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
           CALENDAR_ID: ai.mi.hammer@gmail.com
-        run: python scripts/generate_meal_plan.py
+        run: python scripts/main.py
 
       - name: Gem madplan i git
         run: |

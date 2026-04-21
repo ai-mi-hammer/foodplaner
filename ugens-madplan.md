@@ -183,49 +183,49 @@
 ## 🛒 Indkøbsliste — Føtex
 
 ### 🥦 Grøntsager & frugt
-- Frisk spinat (2 poser á ca. 150 g) — til mandag + onsdag
-- Peberfrugt, blandede farver (3 stk.) — til tirsdag + fredag
-- Avocado (1 moden) — til torsdag
-- Cherrytomater (150 g) — til torsdag
-- Kartofler (700 g) — til onsdag + weekend
-- Agurk (½ stk.) — til torsdag
-- Citron (2 stk.) — til onsdag + torsdag
-- Løg (2 stk.) — til mandag + fredag
-- Hvidløg (1 hoved)
-- Ingefær (lille stykke eller tube)
-- Friske krydderurter (koriander/dild/mynte)
+- Frisk spinat, 2 poser á 150 g — til mandag + onsdag — ca. 20 DKK
+- Peberfrugt, blandede farver, 3 stk. — til tirsdag + fredag — ca. 30 DKK
+- Avocado, 1 moden — til torsdag — ca. 12 DKK
+- Cherrytomater, 150 g — til torsdag — ca. 18 DKK
+- Kartofler, 700 g — til onsdag + weekend — ca. 18 DKK
+- Agurk, ½ stk. — til torsdag — ca. 8 DKK
+- Citron, 2 stk. — til onsdag + torsdag — ca. 10 DKK
+- Løg, 2 stk. — til mandag + fredag — ca. 6 DKK
+- Hvidløg, 1 hoved — ca. 8 DKK
+- Ingefær, lille stykke — ca. 5 DKK
+- Friske krydderurter (koriander/dild/mynte), 3 bakker — ca. 25 DKK
 
 ### 🧀 Mejeri & æg
-- Feta (200 g) — til mandag (på tilbud ✅)
-- Halloumi (200 g) — til torsdag (på tilbud ✅)
-- Mascarpone (150 g) — til weekend (på tilbud ✅)
-- Burrata (1 stk.) — til weekend (på tilbud ✅)
-- Yoghurt naturel (lille bæger, 200 g) — til torsdag + onsdag
+- Feta, 200 g — til mandag ✅ tilbud — ca. 25 DKK
+- Halloumi, 200 g — til torsdag ✅ tilbud — ca. 32 DKK
+- Mascarpone, 150 g — til weekend ✅ tilbud — ca. 28 DKK
+- Burrata, 1 stk. — til weekend ✅ tilbud — ca. 35 DKK
+- Yoghurt naturel, 200 g — til torsdag + onsdag — ca. 12 DKK
 
 ### 🫙 Tørvarer (pasta, ris, konserves)
-- Pasta (400 g, f.eks. penne eller fusilli) — til mandag + fredag
-- Ris (400 g, basmati eller jasmin) — til tirsdag
-- Hakkede tomater, dåse (2 × 400 g) — til mandag + fredag
-- Grøntsagsbouillon (terning eller fond) — til mandag
-- Sojasauce — til tirsdag
-- Sweet chili sauce — til tirsdag
-- Sesamolie — til tirsdag
-- Rapsolie/olivenolie
-- Paprika, oregano, chiliflager, salt, peber
+- Pasta, 400 g (penne eller fusilli) — til mandag + fredag — ca. 15 DKK
+- Ris, 400 g (basmati eller jasmin) — til tirsdag — ca. 15 DKK
+- Hakkede tomater, 2 × 400 g dåse — til mandag + fredag — ca. 24 DKK
+- Grøntsagsbouillon, terning eller fond — til mandag — ca. 10 DKK
+- Sojasauce — til tirsdag — ca. 18 DKK *(hvis ikke hjemme)*
+- Sweet chili sauce — til tirsdag — ca. 18 DKK *(hvis ikke hjemme)*
+- Sesamolie — til tirsdag — ca. 22 DKK *(hvis ikke hjemme)*
+- Rapsolie/olivenolie — ca. 0 DKK *(forventet hjemme)*
+- Paprika, oregano, chiliflager, salt, peber — ca. 0 DKK *(forventet hjemme)*
 
 ### 🍞 Brød & bageri
-- Pitabrød (4 stk.) — til torsdag (på tilbud ✅)
-- Pizzabund (1 stk., færdig) — til weekend
+- Pitabrød, 4 stk. — til torsdag ✅ tilbud — ca. 15 DKK
+- Pizzabund, 1 stk. (færdig, køleafdeling) — til weekend — ca. 20 DKK
 
 ### ❄️ Frys & køl
-- Tofu, fast (200 g) — til tirsdag (på tilbud ✅)
-- Laksefileter (2 × ca. 150 g) — til onsdag (på tilbud ✅)
-- Kyllingebrystfileter (2 × ca. 150 g) — til fredag
+- Tofu, fast, 200 g — til tirsdag ✅ tilbud — ca. 22 DKK
+- Laksefileter, 2 × ca. 150 g — til onsdag — ca. 85 DKK
+- Kyllingebrystfileter, 2 × ca. 150 g — til fredag — ca. 55 DKK
 
 ### 🧴 Diverse
-- Parmesan, revet (lille pose) — til fredag
-- Rosmarin (frisk eller tørret) — til weekend
-- Rucola (lille pose, valgfrit) — til weekend
+- Parmesan, revet, lille pose — til fredag — ca. 28 DKK
+- Rosmarin, frisk eller tørret — til weekend — ca. 8 DKK
+- Rucola, lille pose (valgfrit) — til weekend — ca. 15 DKK
 
 ---
 
