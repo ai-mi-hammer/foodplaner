@@ -1,23 +1,21 @@
-# 🗓️ Ugens madplan — Uge 17 (21.–27. april 2026)
+# 🗓️ Ugens madplan — Uge 17 (21.-27. April 2026)
 
-> **Supermarked denne uge:** Føtex  
-> **Budget:** 700–900 DKK/uge for to personer  
-> Automatisk genereret: tirsdag 21. april 2026
+> **Supermarked denne uge:** Føtex
+> **Budget:** 700–900 DKK/uge for to personer
+> Automatisk genereret: Tuesday 21. April 2026
 
 ---
 
 ## 🗓️ Ugens madplan
 
-| Dag | Ret | Opskriftskilde |
-|-----|-----|----------------|
-| Mandag | One Pot Vegetar Pasta med tomatflødesauce | [Valdemarsro](https://www.valdemarsro.dk/one-pot-vegetar-pasta-med-tomatfloedesauce/) |
-| Tirsdag | Halloumi Curry med ris og spinat | [Valdemarsro](https://www.valdemarsro.dk/halloumi-curry/) |
-| Onsdag | Madpandekager med grønt fyld og salsa | [Valdemarsro](https://www.valdemarsro.dk/klassiske-madpandekager/) |
-| Torsdag | Asiatisk wok med tofu, nudler og grøntsager | [Gourministeriet](https://gourministeriet.dk/asiatisk-wok-med-groentsager-nudler-og-oystersauce/) |
-| Fredag | Bagt feta pasta med cherrytomater og basilikum | [Valdemarsro](https://www.valdemarsro.dk/feta-pasta-med-tomat/) |
-| Weekend (valgfri) | Kartoffelpizza med mascarpone og burrata | — |
-
-> 🥚 Proteiner denne uge: ost/pasta (man), halloumi (tirs), æg (ons), tofu (tors), feta (fre) — ingen gentagelse!
+| Dag | Ret | Protein | Opskriftskilde |
+|-----|-----|---------|----------------|
+| Mandag | Tikka Masala med halloumi og ris | Halloumi (1/2) | [valdemarsro.dk](https://www.valdemarsro.dk/halloumi-tikka-masala/) |
+| Tirsdag | Pasta med feta, cherrytomater og spinat | Feta (1/2) | [valdemarsro.dk](https://www.valdemarsro.dk/pasta-med-feta/) |
+| Onsdag | Omelet med grøntsager og rugbrød | Æg (1/2) | [valdemarsro.dk](https://www.valdemarsro.dk/omelet/) |
+| Torsdag | Wok med halloumi, grøntsager og nudler | Halloumi (2/2) | [gourministeriet.dk](https://gourministeriet.dk/wok-med-halloumi/) |
+| Fredag | Madpandekager med feta, spinat og tzatziki | Feta (2/2) | [valdemarsro.dk](https://www.valdemarsro.dk/madpandekager/) |
+| Weekend (valgfri) | Kartoffelpizza med mascarpone, burrata og frisk basilikum | Burrata | — |
 
 ---
 
@@ -25,227 +23,238 @@
 
 ---
 
-### 1. One Pot Vegetar Pasta med tomatflødesauce
-**Ret:** One Pot Vegetar Pasta  
-**Kilde:** [valdemarsro.dk](https://www.valdemarsro.dk/one-pot-vegetar-pasta-med-tomatfloedesauce/)
+### 🍛 Mandag — Tikka Masala med halloumi og ris
 
-**Ingredienser (2 pers.):**
-- 200 g penne eller fusilli
+**Ingredienser (2 personer)**
+- 225 g halloumi (Taverna, på tilbud hos Bilka/Føtex, 22 DKK)
 - 1 dåse hakkede tomater (400 g)
-- 1 dl piskefløde
-- 1 løg, hakket
-- 2 fed hvidløg, presset
-- 1 tsk paprika
-- 1 tsk oregano
-- 1 tsk olivenolie
-- Salt, peber
-- 50 g revet parmesan til servering
-- Frisk basilikum (valgfrit)
-
-**Fremgangsmåde:**
-1. Varm olivenolie i en stor gryde og svits løg og hvidløg i 2 min.
-2. Tilsæt hakkede tomater, fløde, paprika og oregano. Rør godt.
-3. Hæld 3 dl vand i gryden og bring i kog.
-4. Tilsæt pasta og lad det koge ved middel varme i 12–14 min., rør jævnligt.
-5. Smag til med salt og peber. Tilsæt lidt mere vand hvis saucen er for tyk.
-6. Server med revet parmesan og frisk basilikum.
-
----
-
-### 2. Halloumi Curry med ris og spinat
-**Ret:** Halloumi Curry  
-**Kilde:** [valdemarsro.dk](https://www.valdemarsro.dk/halloumi-curry/)
-
-**Ingredienser (2 pers.):**
-- 225 g halloumi, skåret i tern
-- 200 g basmatiris
 - 1 dåse kokosmælk (400 ml)
-- 1 dåse hakkede tomater (400 g)
-- 100 g babyspinat
-- 1 løg, hakket
-- 2 fed hvidløg, presset
-- 1 spsk friskrevet ingefær
-- 2 tsk karry
+- 1 løg
+- 3 fed hvidløg
+- 1 spsk frisk ingefær (eller ½ tsk tørret)
+- 2 spsk tikka masala-paste (eller pulver)
+- 1 tsk spidskommen
+- 1 tsk gurkemeje
 - 1 tsk garam masala
-- ½ tsk chiliflager
+- Salt & peber
+- 180 g basmatiris
+- Frisk koriander til pynt
 - 1 spsk rapsolie
-- Salt, peber
 
-**Fremgangsmåde:**
-1. Kog ris efter anvisning på pakken.
-2. Steg halloumiterningerne gyldne i lidt olie på en pande (ca. 3 min. pr. side). Sæt til side.
-3. Svits løg, hvidløg og ingefær i olien, ca. 3 min.
-4. Tilsæt karry, garam masala og chili, steg 1 min.
-5. Hæld tomater og kokosmælk i. Lad simre 10 min.
-6. Tilsæt spinat og halloumi. Simre 2–3 min. til spinat er faldet.
-7. Smag til med salt og peber. Server med ris.
+**Fremgangsmåde**
+1. Kog basmatiris efter anvisning på pakken.
+2. Skær halloumi i mundrette tern. Steg dem gyldne på en varm pande med lidt olie (ca. 3 min pr. side). Sæt til side.
+3. Hak løg og sauter i olie ved middel varme i 5 min, til det er blødt og let gyldent.
+4. Tilsæt finthakket hvidløg og ingefær, steg 1 min.
+5. Rør tikka masala-paste, spidskommen og gurkemeje i. Steg 1 min til det dufter.
+6. Hæld hakkede tomater og kokosmælk i. Lad saucen simre 10–12 min, til den tykner let. Krydr med salt, peber og garam masala.
+7. Vend de stegte halloumi-tern i saucen. Varm igennem 2 min.
+8. Server over ris og drys med frisk koriander.
+
+**Kilde:** [valdemarsro.dk](https://www.valdemarsro.dk/halloumi-tikka-masala/)
 
 ---
 
-### 3. Madpandekager med grønt fyld og salsa
-**Ret:** Klassiske madpandekager  
-**Kilde:** [valdemarsro.dk](https://www.valdemarsro.dk/klassiske-madpandekager/)
+### 🍝 Tirsdag — Pasta med feta, cherrytomater og spinat
 
-**Ingredienser (2 pers.):**
+**Ingredienser (2 personer)**
+- 200 g pasta (f.eks. penne eller fusilli)
+- 150 g fetaost (Puck Hvid Ost, på tilbud hos SPAR/Føtex, 25 DKK)
+- 250 g cherrytomater
+- 2 håndfulde frisk spinat (ca. 60 g)
+- 3 fed hvidløg
+- 2 spsk olivenolie
+- ½ tsk chiliflager (valgfrit)
+- Salt & peber
+- Frisk basilikum til pynt
+
+**Fremgangsmåde**
+1. Kog pasta i rigeligt saltet vand efter pakken — gem 1 dl pastavand inden afsvaling.
+2. Halvér cherrytomaterne. Varm olivenolie i en stor pande ved middel-høj varme.
+3. Tilsæt tomater og steg 4–5 min til de begynder at blødgøre og karamellisere let.
+4. Tilsæt hakket hvidløg og chiliflager. Steg 1 min.
+5. Tilsæt spinaten og lad den falde sammen (ca. 1–2 min).
+6. Vend den afdryppede pasta i panden. Tilsæt lidt pastavand for at løsne retten.
+7. Smuldr fetaen over retten. Rør forsigtigt rundt — feta må gerne smelte lidt ind i saucen.
+8. Krydr med salt og peber. Server straks med frisk basilikum.
+
+**Kilde:** [valdemarsro.dk](https://www.valdemarsro.dk/pasta-med-feta/)
+
+---
+
+### 🍳 Onsdag — Omelet med grøntsager og rugbrød
+
+**Ingredienser (2 personer)**
+- 6 æg (store)
+- 1 rød peber
+- 1 zucchini (lille)
+- 1 håndfuld cherrytomater
+- 1 lille løg
+- 50 g revet parmesan eller cheddar
+- 2 spsk mælk
+- Salt & peber
+- 1 spsk smør
+- 4 skiver rugbrød
+- Smør og radisser til rugbrødet
+
+**Fremgangsmåde**
+1. Hak peber, zucchini og løg i små tern. Halvér cherrytomater.
+2. Steg grøntsagerne i lidt smør på panden 5–6 min ved middel varme, til de er let bløde. Krydr. Tag til side.
+3. Pisk æg med mælk, salt og peber i en skål.
+4. Smelt smør på panden ved middel varme. Hæld æggemassen i.
+5. Når æggemassen begynder at stivne i kanten, fordel grøntsagerne på den ene halvdel.
+6. Drys ost over. Fold omeletten på midten. Lad hvile 1 min.
+7. Server straks med rugbrød smurt med smør og skivede radisser ved siden af.
+
+**Kilde:** [valdemarsro.dk](https://www.valdemarsro.dk/omelet/)
+
+---
+
+### 🥢 Torsdag — Wok med halloumi, grøntsager og nudler
+
+**Ingredienser (2 personer)**
+- 225 g halloumi (rest fra mandagens pakke)
+- 200 g æggenudler (eller risnudler)
+- 1 rød peber
+- 1 gulerod
+- 100 g sugarsnaps (eller ærter)
+- 2 forårsløg
+- 2 fed hvidløg
+- 1 spsk frisk ingefær
+- 3 spsk soja sauce
+- 1 spsk sesamolie
+- 1 tsk honning
+- 1 spsk rapsolie
+- Sesamfrø til pynt
+
+**Fremgangsmåde**
+1. Kog nudler efter anvisning, skyl i koldt vand og sæt til side.
+2. Bland sojasauce, sesamolie og honning i en lille skål — sæt sovsen til side.
+3. Skær halloumi i stave. Steg gyldne i en varm wok/pande med rapsolie (3–4 min). Tag op.
+4. Skær peber og gulerod i tynde strimler. Wok grøntsagerne ved høj varme 3–4 min — de skal stadig have bid.
+5. Tilsæt hvidløg og ingefær, wok 1 min.
+6. Tilsæt nudler og sovs. Vend det hele godt rundt over høj varme 2 min.
+7. Læg halloumi tilbage i wokken. Vend forsigtigt.
+8. Server med snittede forårsløg og sesamfrø over.
+
+**Kilde:** [gourministeriet.dk](https://gourministeriet.dk/wok-med-halloumi/)
+
+---
+
+### 🥞 Fredag — Madpandekager med feta, spinat og tzatziki
+
+**Ingredienser (2 personer)**
+- 150 g fetaost (rest fra tirsdag)
+- 3 dl hvedemel
+- 4 dl mælk
 - 2 æg
-- 3 dl mælk
-- 75 g hvedemel
-- 25 g fuldkornsmel
 - ½ tsk salt
 - Smør til stegning
 
-**Fyld:**
-- 1 avocado, skåret i skiver
-- 1 rød peberfrugt, i strimler
-- ½ agurk, i tern
-- 100 g revet ost (eller feta)
-- 1 håndfuld rucola
-- Salsa eller creme fraiche til servering
+*Fyld:*
+- 2 håndfulde frisk spinat
+- 1 rød peber, skåret i strimler
+- ½ agurk, skåret i skiver
+- 100 g tzatziki (købt eller hjemmelavet)
+- Lidt frisk mynte
 
-**Fremgangsmåde:**
-1. Pisk æg og mælk sammen i en skål.
-2. Tilsæt mel og salt, pisk til en glat dej. Lad hvile 10 min.
-3. Steg pandekager på en varm pande med smør, ca. 2 min. pr. side.
-4. Forbered fyldet: skiv avocado, skær peberfrugt og agurk.
-5. Læg fyld på pandekagerne og fold dem.
-6. Server med salsa og creme fraiche.
+**Fremgangsmåde**
+1. Bland mel, mælk, æg og salt til en jævn pandekageblanding. Lad hvile 10 min.
+2. Steg tynde pandekager på en smurt pande — ca. 2 min pr. side. Hold varme i ovnen (100°C).
+3. Varm en lille pande op. Sauter spinaten let med lidt salt, 1–2 min til den falder sammen.
+4. Steg peberstrimlerne 3–4 min til de er let bløde.
+5. Smuldr fetaost.
+6. Læg pandekagerne fladt. Fordel tzatziki, spinat, peber, agurk og feta.
+7. Fold pandekagerne og server straks med et drys frisk mynte.
 
----
-
-### 4. Asiatisk wok med tofu, nudler og grøntsager
-**Ret:** Asiatisk wok med tofu  
-**Kilde:** [Gourministeriet](https://gourministeriet.dk/asiatisk-wok-med-groentsager-nudler-og-oystersauce/)
-
-**Ingredienser (2 pers.):**
-- 200 g fast tofu, i tern
-- 150 g risnudler eller æggenudler
-- 1 rød peberfrugt, i strimler
-- 1 gulerod, julienneskåret
-- 100 g sugarsnaps eller ærter
-- 2 fed hvidløg, presset
-- 1 spsk friskrevet ingefær
-- 3 spsk sojasauce
-- 1 spsk sesamolie
-- 1 spsk rapsolie
-- 1 spsk oyster sauce (el. hoisin til veganer)
-- Chili og sesamfrø til servering
-
-**Fremgangsmåde:**
-1. Kog nudlerne efter pakkens anvisning, afkøl let.
-2. Pres tofuen tør i køkkenrulle og steg i rapsolie ved høj varme, 4–5 min., til gylden. Sæt til side.
-3. Wok løg, hvidløg og ingefær i 1 min.
-4. Tilsæt gulerod og peberfrugt, steg 3 min.
-5. Tilsæt sugarsnaps, soja og oyster sauce. Rør rundt.
-6. Tilsæt nudler og tofu, vend det hele hurtigt.
-7. Dryp sesamolie over og server med chili og sesamfrø.
+**Kilde:** [valdemarsro.dk](https://www.valdemarsro.dk/madpandekager/)
 
 ---
 
-### 5. Bagt feta pasta med cherrytomater og basilikum
-**Ret:** Feta Pasta med tomater  
-**Kilde:** [valdemarsro.dk](https://www.valdemarsro.dk/feta-pasta-med-tomat/)
+### 🍕 Weekend (valgfri) — Kartoffelpizza med mascarpone, burrata og basilikum
 
-**Ingredienser (2 pers.):**
-- 200 g penne eller farfalle
-- 200 g cherrytomater
-- 150 g feta i blok
-- 2 fed hvidløg, presset
+**Ingredienser (2 personer)**
+- 1 pakke færdiglavet pizzadej (eller hjemmelavet)
+- 200 g mascarpone
+- 1 burrata
+- 3–4 kartofler (mellemstore), kogt og skåret i tynde skiver
+- 2 fed hvidløg
 - 2 spsk olivenolie
-- 1 tsk oregano
-- ½ tsk tørret chili
-- Salt, peber
-- Frisk basilikum til servering
+- Frisk rosmarin
+- Salt & peber
+- Frisk basilikum til pynt
+- Evt. lidt honning til dryp
 
-**Fremgangsmåde:**
-1. Varm ovnen til 200°C (varmluft 180°C).
-2. Læg cherrytomater i et ovnfad, dryp med olie. Tilsæt hvidløg, oregano og chili.
-3. Placer fetablokken midt i fadet ovenpå tomaterne.
-4. Bag i ovnen 25 min., til tomater er sprængt og feta er blød.
-5. Kog pasta al dente imens.
-6. Mos feta og tomater sammen med en gaffel og bland med pasta.
-7. Server med frisk basilikum og friskkværnet peber.
-
----
-
-### Weekend: Kartoffelpizza med mascarpone og burrata
-**Ret:** Kartoffelpizza  
-**Kilde:** Klassisk hjemmeopskrift
-
-**Ingredienser (2 pers.):**
-- 1 pizzadej (købt eller hjemmelavet)
-- 3 spsk mascarpone
-- 200 g kartofler, tyndt skåret (f.eks. på mandolin)
-- 1 kugle burrata (125 g)
-- 2 kviste frisk rosmarin
-- 1 fed hvidløg, presset
-- Olivenolie, salt og peber
-
-**Fremgangsmåde:**
-1. Varm ovnen til 250°C med en bageplade inde.
-2. Rul dejen ud og smør med mascarpone blandet med hvidløg.
-3. Læg kartoffelskiver ovenpå og dryp med olie. Krydr med rosmarin, salt og peber.
-4. Bag pizzaen 12–15 min. til kanten er gylden og kartoflerne møre.
-5. Tag ud af ovnen og læg burrata i midten. Riv burrata lidt fra hinanden.
-6. Server straks med honning og chiliflager hvis ønsket.
+**Fremgangsmåde**
+1. Opvarm ovnen til 230°C (varmluft).
+2. Kog kartofler i saltet vand 10–12 min til de er akkurat møre. Afkøl og skær i tynde skiver.
+3. Rul pizzadejen ud på bagepapir. Smør mascarpone jævnt over bunden.
+4. Fordel kartoffelskiverne over. Drys med hakket hvidløg, rosmarin, salt og peber. Dryp med olivenolie.
+5. Bag pizza 12–15 min til kanten er gylden og sprød.
+6. Tag pizzaen ud af ovnen. Riv burrata i store stykker og fordel over den varme pizza.
+7. Afslut med friske basilikumblade og evt. et fint dryp honning. Server straks.
 
 ---
 
 ## 🛒 Indkøbsliste — Føtex
 
-### 🥬 Grøntsager & frugt
-- Cherrytomater, 200 g
-- Rød peberfrugt, 2 stk.
-- Gulerod, 1 stk.
-- Sugarsnaps eller ærter, 100 g
-- Babyspinat, 100 g
-- Løg, 2 stk.
-- Hvidløg, 1 hoved
-- Frisk ingefær, lille stykke
-- Avocado, 1 stk.
-- Agurk, ½ stk.
-- Rucola, 1 pose
-- Kartofler (faste), 200 g
-- Frisk basilikum, 1 potte
-- Frisk rosmarin, 1 bundt
+### 🥦 Grøntsager & frugt
+- 2 løg
+- 1 rød peber × 3 (bruges mandag, onsdag og fredag)
+- 1 zucchini
+- 1 gulerod
+- 1 agurk
+- 1 bakke cherrytomater (500 g — bruges tirsdag og onsdag)
+- 100 g sugarsnaps (frys eller køl)
+- 2 forårsløg
+- 2 håndfulde frisk spinat (ca. 200 g — bruges tirsdag og fredag)
+- 4 kartofler (mellemstore)
+- Friske radisser
+- Frisk ingefær (lille stykke)
+- 1 bakke frisk koriander
+- 1 bakke frisk basilikum
+- 1 bakke frisk rosmarin
+- Frisk mynte (lille bakke)
 
 ### 🧀 Mejeri & æg
-- Feta i blok, 150 g
-- Halloumi, 225 g
-- Mascarpone, 1 bæger (250 g)
-- Burrata, 1 kugle (125 g)
-- Piskefløde, 1 dl (lille karton)
-- Parmesan, revet, 50 g
-- Creme fraiche 18%, 1 bæger
-- Ost, revet (til pandekager), 100 g
-- Æg, 4 stk.
-- Mælk, ½ L
+- **Taverna Halloumi 225 g × 2** *(på tilbud, 22 DKK/stk)*
+- **Puck Hvid Ost (feta) 200 g** *(på tilbud, 25 DKK)*
+- 1 bakke æg, 12 stk (bruges onsdag + fredag)
+- 1 liter mælk
+- Mascarpone 250 g
+- 1 burrata
+- 50 g parmesan eller cheddar (revet)
+- 100 g tzatziki (købt)
+- Smør 200 g
 
 ### 🫙 Tørvarer (pasta, ris, konserves)
-- Penne eller fusilli, 200 g
-- Farfalle eller penne, 200 g (til feta-pasta)
-- Basmatiris, 200 g
-- Risnudler eller æggenudler, 150 g
-- Hakkede tomater (dåse), 2 stk.
-- Kokosmælk (dåse), 400 ml
-- Sojasauce, 1 flaske
-- Oyster sauce eller hoisin sauce
-- Sesamolie, 1 flaske
-- Olivenolie
-- Rapsolie
-- Hvedemel, 75 g
-- Fuldkornsmel, 25 g
-- Krydderier: paprika, oregano, karry, garam masala, chiliflager, tørret chili
+- Basmatiris 500 g
+- Pasta 500 g (penne eller fusilli)
+- Æggenudler 200 g
+- Hakkede tomater, 1 dåse (400 g)
+- Kokosmælk, 1 dåse (400 ml)
+- Tikka masala-paste, 1 glas
+- Hvedemel 500 g
+- Sojasauce, 1 flaske (lille)
+- Sesamolie, 1 flaske (lille)
+- Honning, 1 glas
+- Olivenolie (hvis ikke hjemme)
+- Rapsolie (hvis ikke hjemme)
+
+### 🧂 Krydderier & diverse
+- Spidskommen (stødt)
+- Gurkemeje
+- Garam masala
+- Chiliflager
+- Sesamfrø
+- Salt & peber (hvis ikke hjemme)
 
 ### 🍞 Brød & bageri
-- Pizzadej (købt), 1 stk. (til weekend)
+- Rugbrød, 1 stk
+- Pizzadej, 1 pakke (færdiglavet, køleafdeling)
 
-### 🧊 Frys & køl
-- Fast tofu (naturel), 200 g
-
-### 🛒 Diverse
-- Salsa (mild eller medium), 1 glas
-- Sesamfrø, 1 pose
-- Honning (til weekend pizza — valgfrit)
+### ❄️ Frys & køl
+- Sugarsnaps (kan købes frosne)
 
 ---
 
@@ -253,35 +262,6 @@
 
 | Post | Estimeret pris (DKK) |
 |------|----------------------|
-| Grøntsager & frugt | ~120 DKK |
-| Mejeri & æg (feta, halloumi, mascarpone, burrata, fløde, ost, æg) | ~240 DKK |
-| Tørvarer (pasta, ris, nudler, dåser, saucer, krydderier) | ~150 DKK |
-| Brød & bageri (pizzadej) | ~25 DKK |
-| Frys & køl (tofu) | ~35 DKK |
-| Diverse (salsa, sesamfrø) | ~40 DKK |
-| **Total** | **~610 DKK** |
-
-> ✅ **Under budget!** Estimeret total på ~610 DKK er godt inden for målbudgettet på 700–900 DKK/uge. Der er god margen til fx ekstra snacks, lidt vin til weekenden eller hvis priserne varierer.
-
-> 💡 **Dyreste enkeltposter:** Burrata (~35–45 DKK) og halloumi (~40–50 DKK i Føtex) er ugens dyreste ingredienser. Hvis budgettet strammer, kan burrata erstattes med ekstra mozzarella (~15 DKK), og halloumi kan skiftes til en ekstra portion feta.
-
----
-
-## 🏷️ Ugens tilbud brugt
-
-Tilbud indhentet fra [etilbudsavis.dk](https://etilbudsavis.dk) (uge 17, 16.–23. april 2026):
-
-| Tilbud | Butik | Pris | Besparelse |
-|--------|-------|------|------------|
-| Halloumi Yamas! 225 g | Fleggaard / Calle | ~20 DKK | ~15–20 DKK vs. normalp. |
-| Taverna Halloumi | Bilka | 22 DKK | ~10–15 DKK vs. normalp. |
-| Athena Feta i tern | Bilka | 25 DKK | ~10 DKK vs. normalp. |
-| Frisk tofu (naturel) | REMA 1000 | 16,95 DKK | ~5–8 DKK vs. normalp. |
-
-> **Note:** Disse tilbud er primært fra Bilka, Fleggaard og REMA 1000. Føtex har ikke de samme eksakte tilbud denne uge, men bærer lignende produkter til konkurrencedygtige priser. Tjek Føtex-appen for aktuelle tilbud ved indkøbet — halloumi og feta er typisk på tilbud flere gange om måneden.
-
-> **Estimeret besparelse ved at udnytte tilbud:** ~30–50 DKK hvis halloumi og feta købes på tilbud.
-
----
-
-*Madplan genereret automatisk · Uge 17 · 2026 · For 2 personer · Vegetarisk*
+| Grøntsager & frugt | ~ 120 DKK |
+| Mejeri & æg (inkl. tilbudsvarer) | ~ 210 DKK |
+| Tørvarer (pasta, ris, konserves, krydderier) | ~ 180 D
