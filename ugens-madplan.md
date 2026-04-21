@@ -8,17 +8,17 @@
 
 ## 🗓️ Ugens madplan
 
-| Dag | Ret | Protein | Opskriftskilde |
-|-----|-----|---------|----------------|
-| Mandag | Onepot pasta med spinat og feta | Feta | [valdemarsro.dk](https://valdemarsro.dk/one-pot-pasta/) |
-| Tirsdag | Wok med tofu, peberfrugt og ris | Tofu | [valdemarsro.dk](https://valdemarsro.dk/tofu-wok/) |
-| Onsdag | Laks med kartofler og spinat | Laks | [valdemarsro.dk](https://valdemarsro.dk/laks-med-kartofler/) |
-| Torsdag | Pitabrød med halloumi, avocado og tomater | Halloumi | [gourministeriet.dk](https://gourministeriet.dk/pitabroed-med-halloumi/) |
-| Fredag | 🍗 Kyllingepasta med tomatsauce og peberfrugt | Kylling | [valdemarsro.dk](https://valdemarsro.dk/kyllingepasta/) |
-| Weekend (valgfri) | Kartoffelpizza med mascarpone og burrata | Mascarpone/Burrata | [gourministeriet.dk](https://gourministeriet.dk/kartoffelpizza/) |
+| Dag | Ret | Opskriftskilde |
+|-----|-----|----------------|
+| Mandag | Kartoffelpizza med mascarpone og burrata 🧀 | [valdemarsro.dk](https://valdemarsro.dk) |
+| Tirsdag | Laks med kartofler og grøntsager 🐟 | [valdemarsro.dk](https://valdemarsro.dk) |
+| Onsdag | Onepot fuldkornspasta med spinat og tomater 🍝 | [valdemarsro.dk](https://valdemarsro.dk) |
+| Torsdag | Omelet med spinat og peberfrugt 🥚 | [gourministeriet.dk](https://gourministeriet.dk) |
+| Fredag | Kyllingepasta med peberfrugt og tomatsauce 🍗 | [valdemarsro.dk](https://valdemarsro.dk) |
+| Weekend (valgfri) | Vietnamesiske forårsruller med peanutbutterdip 🥢 | [gourministeriet.dk](https://gourministeriet.dk) |
 
-> ✅ **Proteintjek:** Feta ×1 · Tofu ×1 · Laks ×1 · Halloumi ×1 · Kylling ×1 — ingen protein bruges mere end 2 gange ✔️
-> ✅ **Kødret:** Præcis 1 (Fredag: kylling) ✔️
+> 🥩 **Køddag denne uge:** Fredag (kylling)
+> 🐟 **Fisk:** Tirsdag (laks — tæller som vegetar)
 
 ---
 
@@ -26,206 +26,206 @@
 
 ---
 
-### 🍝 Mandag: Onepot pasta med spinat og feta
-**Tid:** ca. 25 min | **Kilde:** [valdemarsro.dk](https://valdemarsro.dk/one-pot-pasta/)
+### 🍕 Mandag: Kartoffelpizza med mascarpone og burrata
 
 **Ingredienser (2 personer):**
-- 200 g pasta (f.eks. penne eller fusilli)
+- 2 bagekartofler (ca. 400 g)
+- 1 pakke Zanetti mascarpone (250 g)
+- 1 pakke Zanetti burrata (125 g)
+- 1 pizzabund / tynd baguette/brød (ca. 350 g)
+- Frisk timian eller rosmarin
+- Olivenolie, salt, peber
+- 1 fed hvidløg
+
+**Fremgangsmåde:**
+1. Forvarm ovnen til 220°C.
+2. Skær kartoflerne i meget tynde skiver (brug evt. mandolinjern) og kog dem i 3–4 min i saltet vand, så de er halvt møre.
+3. Fordel mascarpone jævnt ud over pizzabunden som "sauce" — smag til med salt, peber og presset hvidløg.
+4. Læg kartoffelskiverne ovenpå i et fint lag, dryp med olivenolie og drys med timian.
+5. Bag pizzaen i ovnen i 15–18 min til kanten er gylden og kartoflerne let sprøde.
+6. Tag pizzaen ud og bræk burrataen i stykker hen over den varme pizza.
+7. Afslut med et skvæt olivenolie, friskkværnet peber og evt. et par blade frisk basilikum. Servér straks.
+
+**Kilde:** [https://valdemarsro.dk](https://valdemarsro.dk)
+
+---
+
+### 🐟 Tirsdag: Laks med kartofler og grøntsager
+
+**Ingredienser (2 personer):**
+- 300 g laksestykke (del af den 600 g pakke)
+- 400 g kartofler
+- 1 peberfrugt
+- Frisk eller frosset spinat (ca. 100 g)
+- Smør (Lurpak)
+- Citron, dild, salt, peber
+- 1 spsk olivenolie
+
+**Fremgangsmåde:**
+1. Forvarm ovnen til 200°C. Skær kartoflerne i både og vend dem i olivenolie, salt og peber på en bageplade.
+2. Bag kartoflerne i 25 min, til de er gyldne og møre.
+3. Imens krydres laksen med salt, peber og citronskal.
+4. Steg laksen på en pande i smør, ca. 3–4 min på hver side, til den er netop gennemstegt.
+5. Rens og skær peberfrugten i strimler — steg dem kort på panden med lidt smør.
+6. Varm spinaten i en gryde med en smule smør, salt og muskatnød.
+7. Servér laks med kartoffelbåde, peberfrugt, spinat og citronbåde ved siden af.
+
+**Kilde:** [https://valdemarsro.dk](https://valdemarsro.dk)
+
+---
+
+### 🍝 Onsdag: Onepot fuldkornspasta med spinat og tomater
+
+**Ingredienser (2 personer):**
+- 250 g fuldkornspasta fusilli
+- 1 dåse Mutti hakkede tomater (400 g)
 - 150 g frisk spinat
-- 100 g feta (smuldret)
-- 1 dåse hakkede tomater (400 g)
 - 2 fed hvidløg
-- ½ løg
-- 4 dl grøntsagsbouillon
-- Salt, peber, olivenolie, chiliflager
+- 1 tsk chiliflager
+- 1 tsk oregano
+- Parmesan (til servering)
+- Olivenolie, salt, peber
+- Ca. 4 dl grøntsagsbouillon
 
 **Fremgangsmåde:**
-1. Hak løg og hvidløg fint og svits dem i lidt olie i en stor gryde i 2 min.
-2. Tilsæt hakkede tomater og bouillon, og rør godt rundt.
-3. Kom pasta direkte i gryden (ukogt) og lad det simre under låg i ca. 12–14 min — rør jævnligt.
-4. Tjek at pasta er al dente og det meste væske er absorberet.
-5. Vend spinat i og lad det falde sammen i 1–2 min.
-6. Smag til med salt, peber og chiliflager.
-7. Anret i skåle og drys smuldret feta over.
-8. Server evt. med et stykke godt brød.
+1. Hak hvidløget fint og svits det i olivenolie i en stor gryde ved middel varme — ca. 1 min.
+2. Tilsæt chiliflager og oregano, rør rundt i 30 sekunder.
+3. Hæld tomaterne i gryden, tilsæt bouillon og bring det i kog.
+4. Tilsæt pasta direkte i gryden og kog under låg i ca. 12–14 min ved svag/middel varme — rør jævnligt.
+5. Når pastaen er al dente og saucen er tyknet, vendes spinaten i — den falder hurtigt sammen.
+6. Smag til med salt og peber.
+7. Servér straks med revet parmesan og evt. et skvæt olivenolie.
+
+**Kilde:** [https://valdemarsro.dk](https://valdemarsro.dk)
 
 ---
 
-### 🥢 Tirsdag: Wok med tofu, peberfrugt og ris
-**Tid:** ca. 35 min | **Kilde:** [valdemarsro.dk](https://valdemarsro.dk/tofu-wok/)
+### 🥚 Torsdag: Omelet med spinat og peberfrugt
 
 **Ingredienser (2 personer):**
-- 200 g fast tofu
-- 2 peberfrugter (blandede farver)
-- 200 g ris (basmati eller jasmin)
-- 2 spsk sojasauce
-- 1 spsk sesamolie
-- 1 spsk rapsolie
+- 6 æg (af pakken på 10)
+- 100 g frisk spinat
+- 1 peberfrugt
+- 1 lille løg
+- 50 g feta (ca.)
+- Smør til stegning
+- Salt, peber, frisk persille
+
+**Fremgangsmåde:**
+1. Pisk æggene let sammen med salt og peber i en skål.
+2. Skær peberfrugten i små tern og løget i tynde skiver.
+3. Svits løg og peberfrugt i smør på en pande ved middel varme i ca. 4–5 min.
+4. Tilsæt spinat og lad det falde sammen — ca. 1–2 min. Krydr med salt og peber.
+5. Fordel grøntsagerne jævnt på panden og hæld æggemassen over.
+6. Lad omeletten stivne ved lav varme (evt. med låg) i ca. 5–6 min, til midten netop er fast.
+7. Drys med smuldret feta og frisk persille. Fold omeletten og servér med godt brød.
+
+**Kilde:** [https://gourministeriet.dk](https://gourministeriet.dk)
+
+---
+
+### 🍗 Fredag: Kyllingepasta med peberfrugt og tomatsauce
+
+**Ingredienser (2 personer):**
+- 250 g kyllingebrystfilet (del af pakken)
+- 250 g pasta (zelected eller fuldkornsfusilli)
+- 1 dåse Mutti tomater (400 g)
+- 1 peberfrugt
 - 2 fed hvidløg
-- 1 tsk revet ingefær (frisk eller på tube)
-- 1 spsk sweet chili sauce
-- Frisk koriander (valgfrit)
-
-**Fremgangsmåde:**
-1. Kog ris efter pakkens anvisning.
-2. Skær tofu i tern og dup tørre med køkkenrulle. Steg dem gyldne på alle sider i rapsolie på høj varme i ca. 8 min — sæt til side.
-3. Skær peberfrugter i strimler.
-4. Svits hvidløg og ingefær i sesamolie i wok eller stor pande i 1 min.
-5. Tilsæt peberfrugt og wok videre på høj varme i 3–4 min.
-6. Kom tofu tilbage i panden og tilsæt sojasauce og sweet chili sauce.
-7. Rør godt rundt og lad det samle sig i 1–2 min.
-8. Server over ris, drys evt. med frisk koriander.
-
----
-
-### 🐟 Onsdag: Laks med kartofler og spinat
-**Tid:** ca. 35 min | **Kilde:** [valdemarsro.dk](https://valdemarsro.dk/laks-med-kartofler/)
-
-**Ingredienser (2 personer):**
-- 2 laksefileter (á ca. 150 g)
-- 400 g kartofler (nye eller faste)
-- 150 g frisk spinat
-- 1 citron
-- 2 fed hvidløg
-- 2 spsk olivenolie
-- Salt, peber, dild (frisk eller tørret)
-
-**Fremgangsmåde:**
-1. Varm ovnen op til 200°C.
-2. Skær kartofler i både, vend dem i olie, salt og peber og bag i ovnen i ca. 20 min.
-3. Krydr laksefileterne med salt, peber og dild.
-4. Læg laksen på en bageplade med bagepapir og bag i ovnen de sidste 12–15 min (ved siden af kartoflerne).
-5. Svits hvidløg i lidt olie på en pande, tilsæt spinat og lad det falde sammen — 2 min.
-6. Smag spinaten til med salt, peber og lidt citronsaft.
-7. Anret kartofler, spinat og laks på tallerkener.
-8. Server med citronbåde og evt. et klat naturell yoghurt som sauce.
-
----
-
-### 🫓 Torsdag: Pitabrød med halloumi, avocado og tomater
-**Tid:** ca. 20 min | **Kilde:** [gourministeriet.dk](https://gourministeriet.dk/pitabroed-med-halloumi/)
-
-**Ingredienser (2 personer):**
-- 4 pitabrød
-- 200 g halloumi
-- 1 moden avocado
-- 150 g cherrytomater
-- ½ agurk
-- Saft af ½ citron
-- Frisk mynte eller koriander
-- Salt, peber, olivenolie
-- 2 spsk yoghurt naturel (dressing)
-
-**Fremgangsmåde:**
-1. Skær halloumi i skiver (ca. ½ cm tykke) og steg dem på en tør varm pande i 2–3 min på hver side til de er gyldne.
-2. Mos avocado med citronsaft, salt og peber.
-3. Halver cherrytomater og skær agurk i tern.
-4. Varm pitabrød i ovn eller på pande i 2–3 min.
-5. Åbn pitabrødene og smør avocadomosen på indersiden.
-6. Fyld med halloumi, tomater og agurk.
-7. Dryp med lidt yoghurt og olivenolie.
-8. Drys med friske krydderurter og server straks.
-
----
-
-### 🍗 Fredag: Kyllingepasta med tomatsauce og peberfrugt
-**Tid:** ca. 40 min | **Kilde:** [valdemarsro.dk](https://valdemarsro.dk/kyllingepasta/)
-
-**Ingredienser (2 personer):**
-- 2 kyllingebrystfileter (á ca. 150 g)
-- 200 g pasta (spaghetti eller penne)
-- 1 peberfrugt (rød)
-- 1 dåse hakkede tomater (400 g)
-- 1 løg
-- 3 fed hvidløg
 - 1 tsk paprika
-- ½ tsk oregano
-- Salt, peber, olivenolie
-- Evt. revet parmesan til servering
+- Olivenolie, salt, peber
+- Frisk basilikum (valgfrit)
+- Parmesan
 
 **Fremgangsmåde:**
-1. Skær kylling i tern og krydr med salt, peber og paprika.
-2. Brun kyllingen i olie på en varm pande i 5–6 min til den er gennemstegt — sæt til side.
-3. Svits hakket løg og hvidløg i samme pande i 2–3 min.
-4. Tilsæt skåret peberfrugt og lad det stege med i 3 min.
-5. Hæld hakkede tomater i og tilsæt oregano. Lad saucen simre i 10 min.
-6. Kog pasta al dente imens efter pakkens anvisning.
-7. Vend kyllingen tilbage i saucen og varm det igennem.
-8. Bland pasta med sauce og server med revet parmesan.
+1. Kog pasta efter anvisning på pakken i rigeligt saltet vand.
+2. Skær kyllingen i mundrette stykker og krydr med salt, peber og paprika.
+3. Steg kyllingen i olivenolie på en pande ved høj varme, ca. 4–5 min til gylden og gennemstegt. Sæt til side.
+4. Svits hakket hvidløg og skåret peberfrugt i samme pande i 3 min.
+5. Tilsæt Mutti-tomater, lad saucen simre i 8–10 min. Smag til med salt og peber.
+6. Vend kyllingen tilbage i saucen og lad det simre 2 min.
+7. Vend den færdigkogte pasta i saucen, servér med parmesan og basilikum.
+
+**Kilde:** [https://valdemarsro.dk](https://valdemarsro.dk)
 
 ---
 
-### 🍕 Weekend (valgfri): Kartoffelpizza med mascarpone og burrata
-**Tid:** ca. 45 min | **Kilde:** [gourministeriet.dk](https://gourministeriet.dk/kartoffelpizza/)
+### 🥢 Weekend (valgfri): Vietnamesiske forårsruller med peanutbutterdip
 
 **Ingredienser (2 personer):**
-- 1 færdig pizzabund (købt) eller hjemmelavet
-- 150 g mascarpone
-- 1 burrata
-- 300 g kartofler (meget tyndt skåret på mandolin eller kniv)
-- 2 fed hvidløg
-- Frisk rosmarin
-- Olivenolie, salt, peber, havsalt
-- Evt. rucola til servering
+- 8 rispapirsplader
+- 100 g risnudler (tynde)
+- 1 gulerod
+- ½ agurk
+- 1 håndfuld frisk spinat eller salat
+- Frisk mynte og koriander
+- 100 g tofu (røget eller fast)
+
+**Peanutbutterdip:**
+- 3 spsk peanutbutter
+- 1 spsk sojasauce
+- 1 spsk limejuice
+- 1 tsk sesamolie
+- Lidt varmt vand til konsistens
 
 **Fremgangsmåde:**
-1. Varm ovnen op til 220°C (varmluft).
-2. Smør mascarpone jævnt ud over pizzabunden.
-3. Skær kartofler ultratyndt og fordel dem ovenpå mascarponen i lag.
-4. Hak hvidløg og drys over, tilsæt rosmarinkviste og dryp med olivenolie.
-5. Bag pizzaen i ovnen i ca. 20–25 min til kartoflerne er bløde og kanten er gylden.
-6. Tag pizzaen ud og læg burrata midt på (den smelter blidt af varmen).
-7. Drys med havsalt og friskkværnet peber.
-8. Server evt. med frisk rucola over.
+1. Kog risnudlerne efter anvisning, skyl i koldt vand og sæt til side.
+2. Skær gulerod og agurk i tynde strimler (julienne). Skær tofu i stave og steg gyldent på pande.
+3. Rør peanutbutterdip sammen — tilsæt varmt vand lidt ad gangen til en cremet konsistens.
+4. Blød rispapir i lunkent vand i 10–15 sekunder, til det er blødt og smidigt.
+5. Læg fyld på midten af rispapiret: nudler, grøntsager, tofu, urter.
+6. Fold siderne ind og rul stramt. Gentag med resten.
+7. Servér straks med peanutbutterdip og evt. sweet chilisauce.
+
+**Kilde:** [https://gourministeriet.dk](https://gourministeriet.dk)
 
 ---
 
 ## 🛒 Indkøbsliste — Føtex
 
 ### 🥦 Grøntsager & frugt
-- Frisk spinat, 2 poser á 150 g — til mandag + onsdag — ca. 20 DKK
-- Peberfrugt, blandede farver, 3 stk. — til tirsdag + fredag — ca. 30 DKK
-- Avocado, 1 moden — til torsdag — ca. 12 DKK
-- Cherrytomater, 150 g — til torsdag — ca. 18 DKK
-- Kartofler, 700 g — til onsdag + weekend — ca. 18 DKK
-- Agurk, ½ stk. — til torsdag — ca. 8 DKK
-- Citron, 2 stk. — til onsdag + torsdag — ca. 10 DKK
-- Løg, 2 stk. — til mandag + fredag — ca. 6 DKK
-- Hvidløg, 1 hoved — ca. 8 DKK
-- Ingefær, lille stykke — ca. 5 DKK
-- Friske krydderurter (koriander/dild/mynte), 3 bakker — ca. 25 DKK
+- Helbladet spinat 250 g — **19 DKK** ✅ tilbud
+- Peberfrugt (3 stk. eller pose) — **12 DKK** ✅ tilbud (grøntsager/frugt-tilbud)
+- Kartofler ca. 1 kg — ca. 15 DKK
+- Gulerod (løs, ca. 2 stk.) — ca. 5 DKK
+- Agurk (½ stk.) — ca. 6 DKK
+- Løg (1 stk.) — ca. 3 DKK
+- Hvidløg (1 hoved) — ca. 5 DKK
+- Citron (1 stk.) — ca. 4 DKK
 
 ### 🧀 Mejeri & æg
-- Feta, 200 g — til mandag ✅ tilbud — ca. 25 DKK
-- Halloumi, 200 g — til torsdag ✅ tilbud — ca. 32 DKK
-- Mascarpone, 150 g — til weekend ✅ tilbud — ca. 28 DKK
-- Burrata, 1 stk. — til weekend ✅ tilbud — ca. 35 DKK
-- Yoghurt naturel, 200 g — til torsdag + onsdag — ca. 12 DKK
+- Zanetti Burrata 125 g — **25 DKK** ✅ tilbud
+- Zanetti Mascarpone 250 g — **22 DKK** ✅ tilbud
+- Økologiske danske æg 10 stk. — **28 DKK** ✅ tilbud
+- Lurpak smør 200 g — **18 DKK** ✅ tilbud
+- Feta ca. 150 g — ca. 20 DKK
+- Parmesan (lille stykke, ca. 80 g) — ca. 18 DKK
 
-### 🫙 Tørvarer (pasta, ris, konserves)
-- Pasta, 400 g (penne eller fusilli) — til mandag + fredag — ca. 15 DKK
-- Ris, 400 g (basmati eller jasmin) — til tirsdag — ca. 15 DKK
-- Hakkede tomater, 2 × 400 g dåse — til mandag + fredag — ca. 24 DKK
-- Grøntsagsbouillon, terning eller fond — til mandag — ca. 10 DKK
-- Sojasauce — til tirsdag — ca. 18 DKK *(hvis ikke hjemme)*
-- Sweet chili sauce — til tirsdag — ca. 18 DKK *(hvis ikke hjemme)*
-- Sesamolie — til tirsdag — ca. 22 DKK *(hvis ikke hjemme)*
-- Rapsolie/olivenolie — ca. 0 DKK *(forventet hjemme)*
-- Paprika, oregano, chiliflager, salt, peber — ca. 0 DKK *(forventet hjemme)*
+### 🥫 Tørvarer (pasta, ris, konserves)
+- Fuldkornspasta fusilli 500 g — **10 DKK** ✅ tilbud
+- Zelected Pasta 500 g — **18 DKK** ✅ tilbud
+- Mutti hakkede tomater 400 g × 2 — **12 DKK × 2 = 24 DKK** ✅ tilbud
+- Rispapirsplader (ca. 20 stk.) — ca. 15 DKK
+- Risnudler (tynde) 200 g — ca. 15 DKK
+- Olivenolie (hvis ikke hjemme) — ca. 35 DKK
+- Peanutbutter (hvis ikke hjemme) — ca. 25 DKK
+- Sojasauce (hvis ikke hjemme) — ca. 20 DKK
+- Grøntsagsbouillon (terninger/pulver) — ca. 10 DKK
+- Chiliflager, oregano, paprika (krydderier) — ca. 15 DKK
 
-### 🍞 Brød & bageri
-- Pitabrød, 4 stk. — til torsdag ✅ tilbud — ca. 15 DKK
-- Pizzabund, 1 stk. (færdig, køleafdeling) — til weekend — ca. 20 DKK
+### 🥖 Brød & bageri
+- Pizzabund / baguette 350–750 g — **15 DKK** ✅ tilbud
 
 ### ❄️ Frys & køl
-- Tofu, fast, 200 g — til tirsdag ✅ tilbud — ca. 22 DKK
-- Laksefileter, 2 × ca. 150 g — til onsdag — ca. 85 DKK
-- Kyllingebrystfileter, 2 × ca. 150 g — til fredag — ca. 55 DKK
+- Laksestykke 600 g — **89 DKK** ✅ tilbud
+- Rose kyllingebrystfilet ca. 400 g (del af pakken 650–1450 g) — **49 DKK** ✅ tilbud
+- Tofu fast/røget ca. 200 g — ca. 20 DKK
 
-### 🧴 Diverse
-- Parmesan, revet, lille pose — til fredag — ca. 28 DKK
-- Rosmarin, frisk eller tørret — til weekend — ca. 8 DKK
-- Rucola, lille pose (valgfrit) — til weekend — ca. 15 DKK
+### 🌿 Diverse
+- Frisk timian eller rosmarin (lille bdt.) — ca. 8 DKK
+- Frisk mynte + koriander (til forårsruller) — ca. 12 DKK
+- Sesamolie (lille flaske, hvis ikke hjemme) — ca. 20 DKK
+- Limefrugt (1 stk.) — ca. 5 DKK
 
 ---
 
@@ -233,22 +233,12 @@
 
 | Post | Estimeret pris (DKK) |
 |------|----------------------|
-| Grøntsager & frugt | ~ 120 DKK |
-| Mejeri & æg | ~ 175 DKK |
-| Tørvarer | ~ 110 DKK |
-| Brød & bageri | ~ 55 DKK |
-| Frys & køl | ~ 185 DKK |
-| Diverse | ~ 65 DKK |
-| **Total** | **~ 710 DKK** ✅ |
+| Grøntsager & frugt | ~ 69 DKK |
+| Mejeri & æg | ~ 131 DKK |
+| Tørvarer (pasta, ris, konserves) | ~ 199 DKK |
+| Brød & bageri | ~ 15 DKK |
+| Frys & køl | ~ 158 DKK |
+| Diverse | ~ 45 DKK |
+| **Total** | **~ 617 DKK** |
 
-> ✅ **Inden for budget** (700–900 DKK) — tæt på den lave ende takket være ugens tilbud!
-
----
-
-## 🏷️ Ugens tilbud brugt
-
-| Vare | Brugt i | Estimeret besparelse |
-|------|---------|----------------------|
-| ✅ Feta | Mandag: Onepot pasta | ~ 10–15 DKK |
-| ✅ Halloumi | Torsdag: Pitabrød | ~ 15–20 DKK |
-|
+> ✅ **Budgetstatus: Inden for budget** — estimeret total på ca. 617 DK
