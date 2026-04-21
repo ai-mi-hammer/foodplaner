@@ -42,7 +42,6 @@
 - 1 dåse kokosmælk (400 ml)
 - Salt og peber
 - Frisk koriander til pynt
-- 1 spsk rapsolie
 
 **Fremgangsmåde:**
 1. Kog basmatiris efter anvisning (ca. 12 min).
