@@ -1,8 +1,8 @@
-# 🗓️ Ugens madplan — Uge 17 (21.–27. April 2026)
+# 🗓️ Ugens madplan — Uge 17 (21.–27. april 2026)
 
 > **Supermarked denne uge:** Føtex
 > **Budget:** 700–900 DKK/uge for to personer
-> Automatisk genereret: Tuesday 21. April 2026
+> Automatisk genereret: Tuesday 21. april 2026
 
 ---
 
@@ -10,15 +10,12 @@
 
 | Dag | Ret | Opskriftskilde |
 |-----|-----|----------------|
-| Mandag | Kartoffelpizza med mascarpone og burrata 🧀 | [valdemarsro.dk](https://valdemarsro.dk) |
-| Tirsdag | Laks med kartofler og grøntsager 🐟 | [valdemarsro.dk](https://valdemarsro.dk) |
-| Onsdag | Onepot fuldkornspasta med spinat og tomater 🍝 | [valdemarsro.dk](https://valdemarsro.dk) |
-| Torsdag | Omelet med spinat og peberfrugt 🥚 | [gourministeriet.dk](https://gourministeriet.dk) |
-| Fredag | Kyllingepasta med peberfrugt og tomatsauce 🍗 | [valdemarsro.dk](https://valdemarsro.dk) |
-| Weekend (valgfri) | Vietnamesiske forårsruller med peanutbutterdip 🥢 | [gourministeriet.dk](https://gourministeriet.dk) |
-
-> 🥩 **Køddag denne uge:** Fredag (kylling)
-> 🐟 **Fisk:** Tirsdag (laks — tæller som vegetar)
+| Mandag | Tomatsalat med bagte tomater og burrata | [Tomatsalat med bagte tomater og burrata](https://gourministeriet.dk/tomatsalat-med-bagte-tomater-og-burrata/) |
+| Tirsdag | Vegetarisk bagt fajita pasta (med peberfrugt) | [Vegetarisk bagt fajita pasta](https://gourministeriet.dk/vegetarisk-bagt-fajita-pasta/) |
+| Onsdag | Frittata med spinat og kartofler | [Frittata med spinat og kartofler](https://gourministeriet.dk/frittata-med-spinat-og-kartofler/) |
+| Torsdag | Pasta med friske tomater og chili | [Pasta med friske tomater og chili](https://gourministeriet.dk/pasta-med-friske-tomater-og-chili/) |
+| Fredag | 🍗 Kylling i paprikasauce med sprøde kartofler | [Kylling i paprikasauce med sprøde kartofler](https://gourministeriet.dk/kylling-i-paprikasauce-med-sproede-kartofler/) |
+| Weekend (valgfri) | Citrontærte med bastognekiks og mascarponecreme | [Citrontærte med bastognekiks og mascarponecreme](https://gourministeriet.dk/citrontaerte-med-bastognekiks-og-mascarponecreme/) |
 
 ---
 
@@ -26,219 +23,206 @@
 
 ---
 
-### 🍕 Mandag: Kartoffelpizza med mascarpone og burrata
+### 🥗 Mandag — Tomatsalat med bagte tomater og burrata
 
-**Ingredienser (2 personer):**
-- 2 bagekartofler (ca. 400 g)
-- 1 pakke Zanetti mascarpone (250 g)
-- 1 pakke Zanetti burrata (125 g)
-- 1 pizzabund / tynd baguette/brød (ca. 350 g)
-- Frisk timian eller rosmarin
-- Olivenolie, salt, peber
-- 1 fed hvidløg
+**Ingredienser til 2 personer:**
+- 400 g cherrytomater eller blandede tomater
+- 1 burrata (125 g, Zanetti — tilbud)
+- Frisk basilikum
+- Hvidløg (2 fed)
+- Olivenolie
+- Salt, peber, flagesalt
+- Balsamicoeddike (lidt)
+- Godt brød til at servere ved siden af
 
 **Fremgangsmåde:**
-1. Forvarm ovnen til 220°C.
-2. Skær kartoflerne i meget tynde skiver (brug evt. mandolinjern) og kog dem i 3–4 min i saltet vand, så de er halvt møre.
-3. Fordel mascarpone jævnt ud over pizzabunden som "sauce" — smag til med salt, peber og presset hvidløg.
-4. Læg kartoffelskiverne ovenpå i et fint lag, dryp med olivenolie og drys med timian.
-5. Bag pizzaen i ovnen i 15–18 min til kanten er gylden og kartoflerne let sprøde.
-6. Tag pizzaen ud og bræk burrataen i stykker hen over den varme pizza.
-7. Afslut med et skvæt olivenolie, friskkværnet peber og evt. et par blade frisk basilikum. Servér straks.
+1. Forvarm ovnen til 200°C.
+2. Skær tomaterne i halve og læg dem i et ovnfast fad med hvidløg, olivenolie, salt og peber.
+3. Bag tomaterne i 20–25 min til de er bløde og let karamelliserede.
+4. Lad tomaterne køle lidt af — de skal være lune, ikke brændende.
+5. Anret de bagte tomater på et flot fad.
+6. Bryd burrataen og læg den midt på tomaterne.
+7. Dryp med olivenolie og balsamico, drys med frisk basilikum og flagesalt.
+8. Servér med godt, sprødt brød.
 
-**Kilde:** [https://valdemarsro.dk](https://valdemarsro.dk)
+🔗 [gourministeriet.dk/tomatsalat-med-bagte-tomater-og-burrata/](https://gourministeriet.dk/tomatsalat-med-bagte-tomater-og-burrata/)
 
 ---
 
-### 🐟 Tirsdag: Laks med kartofler og grøntsager
+### 🌶️ Tirsdag — Vegetarisk bagt fajita pasta
 
-**Ingredienser (2 personer):**
-- 300 g laksestykke (del af den 600 g pakke)
-- 400 g kartofler
-- 1 peberfrugt
-- Frisk eller frosset spinat (ca. 100 g)
-- Smør (Lurpak)
-- Citron, dild, salt, peber
-- 1 spsk olivenolie
-
-**Fremgangsmåde:**
-1. Forvarm ovnen til 200°C. Skær kartoflerne i både og vend dem i olivenolie, salt og peber på en bageplade.
-2. Bag kartoflerne i 25 min, til de er gyldne og møre.
-3. Imens krydres laksen med salt, peber og citronskal.
-4. Steg laksen på en pande i smør, ca. 3–4 min på hver side, til den er netop gennemstegt.
-5. Rens og skær peberfrugten i strimler — steg dem kort på panden med lidt smør.
-6. Varm spinaten i en gryde med en smule smør, salt og muskatnød.
-7. Servér laks med kartoffelbåde, peberfrugt, spinat og citronbåde ved siden af.
-
-**Kilde:** [https://valdemarsro.dk](https://valdemarsro.dk)
-
----
-
-### 🍝 Onsdag: Onepot fuldkornspasta med spinat og tomater
-
-**Ingredienser (2 personer):**
-- 250 g fuldkornspasta fusilli
-- 1 dåse Mutti hakkede tomater (400 g)
-- 150 g frisk spinat
+**Ingredienser til 2 personer:**
+- 250 g fuldkornspasta fusilli (tilbud)
+- 2 peberfrugter i forskellige farver (tilbud)
+- 1 dåse hakkede tomater (400 g, Mutti — tilbud)
+- 1 rødløg
 - 2 fed hvidløg
-- 1 tsk chiliflager
-- 1 tsk oregano
-- Parmesan (til servering)
-- Olivenolie, salt, peber
-- Ca. 4 dl grøntsagsbouillon
+- 1 tsk spidskommen
+- 1 tsk røget paprika
+- ½ tsk chiliflager
+- Salt og peber
+- Creme fraiche eller yoghurt til servering (evt.)
+- Frisk koriander eller purløg
 
 **Fremgangsmåde:**
-1. Hak hvidløget fint og svits det i olivenolie i en stor gryde ved middel varme — ca. 1 min.
-2. Tilsæt chiliflager og oregano, rør rundt i 30 sekunder.
-3. Hæld tomaterne i gryden, tilsæt bouillon og bring det i kog.
-4. Tilsæt pasta direkte i gryden og kog under låg i ca. 12–14 min ved svag/middel varme — rør jævnligt.
-5. Når pastaen er al dente og saucen er tyknet, vendes spinaten i — den falder hurtigt sammen.
-6. Smag til med salt og peber.
-7. Servér straks med revet parmesan og evt. et skvæt olivenolie.
+1. Forvarm ovnen til 200°C.
+2. Skær peberfrugter og rødløg i strimler, bland med hvidløg, olie og fajitakrydderier.
+3. Bred grøntsagerne ud i et ovnfast fad og bag 15 min.
+4. Kog pastaen næsten færdig (2 min under angivet tid) og gem lidt pastavand.
+5. Tilsæt de hakkede tomater til grøntsagerne i fadet, rør rundt.
+6. Bland den halvkogte pasta i fadet med lidt pastavand.
+7. Bag yderligere 15 min til pastaen er færdig og saucen bobler.
+8. Servér med en skefuld yoghurt og friske urter.
 
-**Kilde:** [https://valdemarsro.dk](https://valdemarsro.dk)
+🔗 [gourministeriet.dk/vegetarisk-bagt-fajita-pasta/](https://gourministeriet.dk/vegetarisk-bagt-fajita-pasta/)
 
 ---
 
-### 🥚 Torsdag: Omelet med spinat og peberfrugt
+### 🍳 Onsdag — Frittata med spinat og kartofler
 
-**Ingredienser (2 personer):**
-- 6 æg (af pakken på 10)
+**Ingredienser til 2 personer:**
+- 6 æg (økologiske, tilbud)
+- 300 g kartofler
 - 100 g frisk spinat
-- 1 peberfrugt
-- 1 lille løg
-- 50 g feta (ca.)
-- Smør til stegning
-- Salt, peber, frisk persille
-
-**Fremgangsmåde:**
-1. Pisk æggene let sammen med salt og peber i en skål.
-2. Skær peberfrugten i små tern og løget i tynde skiver.
-3. Svits løg og peberfrugt i smør på en pande ved middel varme i ca. 4–5 min.
-4. Tilsæt spinat og lad det falde sammen — ca. 1–2 min. Krydr med salt og peber.
-5. Fordel grøntsagerne jævnt på panden og hæld æggemassen over.
-6. Lad omeletten stivne ved lav varme (evt. med låg) i ca. 5–6 min, til midten netop er fast.
-7. Drys med smuldret feta og frisk persille. Fold omeletten og servér med godt brød.
-
-**Kilde:** [https://gourministeriet.dk](https://gourministeriet.dk)
-
----
-
-### 🍗 Fredag: Kyllingepasta med peberfrugt og tomatsauce
-
-**Ingredienser (2 personer):**
-- 250 g kyllingebrystfilet (del af pakken)
-- 250 g pasta (zelected eller fuldkornsfusilli)
-- 1 dåse Mutti tomater (400 g)
-- 1 peberfrugt
+- 1 løg
 - 2 fed hvidløg
-- 1 tsk paprika
-- Olivenolie, salt, peber
-- Frisk basilikum (valgfrit)
-- Parmesan
+- 50 g fetaost (smuldret)
+- Salt, peber, muskatnød
+- Olivenolie
+- Frisk purløg til pynt
 
 **Fremgangsmåde:**
-1. Kog pasta efter anvisning på pakken i rigeligt saltet vand.
-2. Skær kyllingen i mundrette stykker og krydr med salt, peber og paprika.
-3. Steg kyllingen i olivenolie på en pande ved høj varme, ca. 4–5 min til gylden og gennemstegt. Sæt til side.
-4. Svits hakket hvidløg og skåret peberfrugt i samme pande i 3 min.
-5. Tilsæt Mutti-tomater, lad saucen simre i 8–10 min. Smag til med salt og peber.
-6. Vend kyllingen tilbage i saucen og lad det simre 2 min.
-7. Vend den færdigkogte pasta i saucen, servér med parmesan og basilikum.
+1. Skær kartoflerne i tynde skiver og kog dem næsten møre (ca. 8 min) — eller brug kogte rester.
+2. Sauter løg og hvidløg i olivenolie i en ovnsikker pande til de er bløde.
+3. Tilsæt spinat og lad det falde sammen. Krydr med salt, peber og lidt muskatnød.
+4. Fordel kartoffelskiverne jævnt i panden over grøntsagerne.
+5. Pisk æggene og hæld dem over fyldet. Drys fetaost over.
+6. Steg på middel varme i 5 min til æggene stivner forneden.
+7. Sæt panden i ovnen ved 200°C i 10 min til toppen er gylden og fast.
+8. Servér direkte fra panden med en frisk salat ved siden af.
 
-**Kilde:** [https://valdemarsro.dk](https://valdemarsro.dk)
+🔗 [gourministeriet.dk/frittata-med-spinat-og-kartofler/](https://gourministeriet.dk/frittata-med-spinat-og-kartofler/)
 
 ---
 
-### 🥢 Weekend (valgfri): Vietnamesiske forårsruller med peanutbutterdip
+### 🍅 Torsdag — Pasta med friske tomater og chili
 
-**Ingredienser (2 personer):**
-- 8 rispapirsplader
-- 100 g risnudler (tynde)
-- 1 gulerod
-- ½ agurk
-- 1 håndfuld frisk spinat eller salat
-- Frisk mynte og koriander
-- 100 g tofu (røget eller fast)
-
-**Peanutbutterdip:**
-- 3 spsk peanutbutter
-- 1 spsk sojasauce
-- 1 spsk limejuice
-- 1 tsk sesamolie
-- Lidt varmt vand til konsistens
+**Ingredienser til 2 personer:**
+- 250 g pasta (fuldkornsfusilli eller anden, tilbud)
+- 400 g friske tomater (eller cherrytomater)
+- 2–3 fed hvidløg
+- 1 rød chili (frisk eller tørret)
+- Olivenolie (rigeligt)
+- Salt og peber
+- Frisk basilikum
+- Parmesanost til servering
 
 **Fremgangsmåde:**
-1. Kog risnudlerne efter anvisning, skyl i koldt vand og sæt til side.
-2. Skær gulerod og agurk i tynde strimler (julienne). Skær tofu i stave og steg gyldent på pande.
-3. Rør peanutbutterdip sammen — tilsæt varmt vand lidt ad gangen til en cremet konsistens.
-4. Blød rispapir i lunkent vand i 10–15 sekunder, til det er blødt og smidigt.
-5. Læg fyld på midten af rispapiret: nudler, grøntsager, tofu, urter.
-6. Fold siderne ind og rul stramt. Gentag med resten.
-7. Servér straks med peanutbutterdip og evt. sweet chilisauce.
+1. Kog pastaen i rigeligt saltet vand iht. pakkens anvisning. Gem 1 dl pastavand.
+2. Skær tomaterne i halve eller kvarte. Hak hvidløg og chili fint.
+3. Varm olivenolie op på en stor pande og sauter hvidløg og chili ved middel varme i 2 min.
+4. Tilsæt tomaterne og lad dem simre 8–10 min til de bryder lidt ned og danner sauce.
+5. Krydr med salt og peber. Tilsæt lidt pastavand for at løsne saucen.
+6. Vend den kogte pasta i tomatsaucen og rør godt rundt.
+7. Tilsæt frisk basilikum og et generøst skvæt olivenolie.
+8. Servér straks med revet parmesan.
 
-**Kilde:** [https://gourministeriet.dk](https://gourministeriet.dk)
+🔗 [gourministeriet.dk/pasta-med-friske-tomater-og-chili/](https://gourministeriet.dk/pasta-med-friske-tomater-og-chili/)
+
+---
+
+### 🍗 Fredag — Kylling i paprikasauce med sprøde kartofler *(ugens kødret)*
+
+**Ingredienser til 2 personer:**
+- 400–500 g kyllingebrystfilet (tilbud, Rose dansk kylling)
+- 600 g kartofler
+- 1 rød peberfrugt (tilbud)
+- 1 løg
+- 2 fed hvidløg
+- 1 dåse hakkede tomater (400 g, Mutti — tilbud)
+- 1½ tsk røget paprika
+- 1 tsk sød paprika
+- 1 dl creme fraiche 18%
+- Salt, peber, olie
+- Frisk persille
+
+**Fremgangsmåde:**
+1. Forvarm ovnen til 220°C. Skær kartofler i både, vend med olie, salt og paprika — bag 30–35 min til sprøde.
+2. Skær kyllingen i mundrette stykker og brun dem i en varm pande med olie. Tag dem op.
+3. Sauter løg og hvidløg i samme pande til bløde. Tilsæt skåret peberfrugt.
+4. Tilsæt begge slags paprika og steg 1 min til krydderierne blomstrer.
+5. Hæld hakkede tomater i og lad saucen simre 10 min.
+6. Læg kyllingen tilbage i panden og lad den simre med i 8–10 min til gennemstegt.
+7. Rør creme fraiche i saucen og varm forsigtigt igennem — må ikke koge.
+8. Servér med de sprøde kartofler og drys persille over.
+
+🔗 [gourministeriet.dk/kylling-i-paprikasauce-med-sproede-kartofler/](https://gourministeriet.dk/kylling-i-paprikasauce-med-sproede-kartofler/)
+
+---
+
+### 🍋 Weekend (valgfri) — Citrontærte med bastognekiks og mascarponecreme
+
+**Ingredienser til 2–4 personer:**
+- 1 pakke Zanetti mascarpone 250 g (tilbud)
+- 150 g bastognekiks
+- 50 g smør (tilbud, Lurpak)
+- 3 citroner (skal og saft)
+- 3 æg (tilbud)
+- 100 g sukker
+- Flormelis til pynt
+
+**Fremgangsmåde:**
+1. Knus bastognekiksene fint og bland med smeltet smør. Pres blandingen ud i en tærteform og sæt på køl.
+2. Pisk æg og sukker luftigt. Tilsæt citronskal og -saft.
+3. Varm citroncurden forsigtigt op i en gryde under konstant omrøring til den tykner (ca. 8–10 min). Lad køle helt af.
+4. Pisk mascarponen blød med lidt flormelis og citronsaft.
+5. Fordel mascarponecreme over kiksebunden.
+6. Fordel den afkølede citroncurd over mascarponelaget.
+7. Sæt tærten på køl i mindst 2 timer (gerne natten over).
+8. Pynt med flormelis og citronskiver inden servering.
+
+🔗 [gourministeriet.dk/citrontaerte-med-bastognekiks-og-mascarponecreme/](https://gourministeriet.dk/citrontaerte-med-bastognekiks-og-mascarponecreme/)
 
 ---
 
 ## 🛒 Indkøbsliste — Føtex
 
 ### 🥦 Grøntsager & frugt
-- Helbladet spinat 250 g — **19 DKK** ✅ tilbud
-- Peberfrugt (3 stk. eller pose) — **12 DKK** ✅ tilbud (grøntsager/frugt-tilbud)
-- Kartofler ca. 1 kg — ca. 15 DKK
-- Gulerod (løs, ca. 2 stk.) — ca. 5 DKK
-- Agurk (½ stk.) — ca. 6 DKK
-- Løg (1 stk.) — ca. 3 DKK
-- Hvidløg (1 hoved) — ca. 5 DKK
-- Citron (1 stk.) — ca. 4 DKK
+- Cherrytomater eller blandede tomater, ca. 600 g — ca. 25 DKK
+- Peberfrugter × 3 stk. (til fajitapasta og kyllingeret) → **12 DKK** *(tilbud)*
+- Kartofler, 1,5 kg løsvægt — ca. 20 DKK
+- Frisk spinat, 150 g — ca. 15 DKK
+- Rødløg × 2 — ca. 8 DKK
+- Løg × 2 — ca. 8 DKK
+- Hvidløg, 1 hoved — ca. 8 DKK
+- Citron × 4 (til tærte + hverdagsretter) — ca. 15 DKK
+- Frisk basilikum, 1 potte — ca. 18 DKK
+- Frisk persille, 1 bundt — ca. 12 DKK
+- Rød chili × 2 — ca. 8 DKK
 
 ### 🧀 Mejeri & æg
-- Zanetti Burrata 125 g — **25 DKK** ✅ tilbud
-- Zanetti Mascarpone 250 g — **22 DKK** ✅ tilbud
-- Økologiske danske æg 10 stk. — **28 DKK** ✅ tilbud
-- Lurpak smør 200 g — **18 DKK** ✅ tilbud
-- Feta ca. 150 g — ca. 20 DKK
-- Parmesan (lille stykke, ca. 80 g) — ca. 18 DKK
+- **Zanetti Burrata 125–150 g** → **25 DKK** *(tilbud)*
+- **Zanetti Mascarpone 250 g** → **22 DKK** *(tilbud)*
+- **Økologiske danske æg, 10 stk.** → **28 DKK** *(tilbud)*
+- **Lurpak smør 200 g** → **18 DKK** *(tilbud)*
+- Fetaost, 200 g — ca. 25 DKK
+- Creme fraiche 18%, 200 ml — ca. 12 DKK
+- Parmesanost, revet, 100 g — ca. 30 DKK
 
 ### 🥫 Tørvarer (pasta, ris, konserves)
-- Fuldkornspasta fusilli 500 g — **10 DKK** ✅ tilbud
-- Zelected Pasta 500 g — **18 DKK** ✅ tilbud
-- Mutti hakkede tomater 400 g × 2 — **12 DKK × 2 = 24 DKK** ✅ tilbud
-- Rispapirsplader (ca. 20 stk.) — ca. 15 DKK
-- Risnudler (tynde) 200 g — ca. 15 DKK
-- Olivenolie (hvis ikke hjemme) — ca. 35 DKK
-- Peanutbutter (hvis ikke hjemme) — ca. 25 DKK
-- Sojasauce (hvis ikke hjemme) — ca. 20 DKK
-- Grøntsagsbouillon (terninger/pulver) — ca. 10 DKK
-- Chiliflager, oregano, paprika (krydderier) — ca. 15 DKK
+- **Fuldkornspasta fusilli 500 g** → **10 DKK** *(tilbud)*
+- **Mutti hakkede tomater 400 g × 2** → **12 DKK × 2 = 24 DKK** *(tilbud)*
+- Bastognekiks, 1 pakke — ca. 22 DKK
+- Røget paprika, 1 krydderglas — ca. 18 DKK
+- Sød paprika, 1 krydderglas — ca. 15 DKK
+- Spidskommen, 1 krydderglas — ca. 15 DKK
+- Chiliflager, 1 krydderglas — ca. 12 DKK
+- Olivenolie, 500 ml — ca. 45 DKK
+- Balsamicoeddike — ca. 20 DKK
+- Sukker, 500 g — ca. 10 DKK
+- Flormelis, 250 g — ca. 10 DKK
 
-### 🥖 Brød & bageri
-- Pizzabund / baguette 350–750 g — **15 DKK** ✅ tilbud
+### 🍞 Brød & bageri
+- Godt landbrød eller surdejsbrød — ca. 35 DKK
 
-### ❄️ Frys & køl
-- Laksestykke 600 g — **89 DKK** ✅ tilbud
-- Rose kyllingebrystfilet ca. 400 g (del af pakken 650–1450 g) — **49 DKK** ✅ tilbud
-- Tofu fast/røget ca. 200 g — ca. 20 DKK
-
-### 🌿 Diverse
-- Frisk timian eller rosmarin (lille bdt.) — ca. 8 DKK
-- Frisk mynte + koriander (til forårsruller) — ca. 12 DKK
-- Sesamolie (lille flaske, hvis ikke hjemme) — ca. 20 DKK
-- Limefrugt (1 stk.) — ca. 5 DKK
-
----
-
-## 💰 Estimeret ugentlig pris
-
-| Post | Estimeret pris (DKK) |
-|------|----------------------|
-| Grøntsager & frugt | ~ 69 DKK |
-| Mejeri & æg | ~ 131 DKK |
-| Tørvarer (pasta, ris, konserves) | ~ 199 DKK |
-| Brød & bageri | ~ 15 DKK |
-| Frys & køl | ~ 158 DKK |
-| Diverse | ~ 45 DKK |
-| **Total** | **~ 617 DKK** |
-
-> ✅ **Budgetstatus: Inden for budget** — estimeret total på ca. 617 DK
+### ❄️ Frys & kø
