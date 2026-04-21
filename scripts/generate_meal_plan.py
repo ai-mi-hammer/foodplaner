@@ -28,7 +28,12 @@ def get_google_access_token():
         'refresh_token': os.environ['GOOGLE_REFRESH_TOKEN'],
         'grant_type':    'refresh_token',
     })
-    r.raise_for_status()
+    if not r.ok:
+        try:
+            detail = r.json()
+        except Exception:
+            detail = r.text
+        raise RuntimeError(f"Google token fejl {r.status_code}: {detail}")
     return r.json()['access_token']
 
 def fetch_offers():
