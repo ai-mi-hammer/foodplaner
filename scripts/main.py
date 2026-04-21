@@ -5,9 +5,9 @@ Kørsel: python scripts/main.py
 """
 
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
-from modules.utils     import get_week_number, get_next_sunday, get_dated_filename
+from modules.utils     import get_next_sunday, get_dated_filename
 from modules.offers    import fetch_offers
 from modules.recipes   import fetch_recipe_urls, format_recipe_urls_for_prompt
 from modules.meal_plan import generate_meal_plan
@@ -16,8 +16,13 @@ from modules.calendar  import build_description, create_event
 
 def main():
     today       = datetime.now()
-    week_number = get_week_number()
     next_sunday = get_next_sunday()
+
+    # Kører på søndag → planlæg for ugen der starter i morgen (mandag)
+    if today.weekday() == 6:
+        today = today + timedelta(days=1)
+
+    week_number = today.isocalendar()[1]
 
     print(f"🍽️  Genererer madplan for uge {week_number}...")
 
